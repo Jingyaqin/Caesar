@@ -1,0 +1,2937 @@
+The Project Gutenberg EBook of Texas Gemstones, by Elbert A. King, Jr.
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Texas Gemstones
+
+Author: Elbert A. King, Jr.
+
+Release Date: August 6, 2019 [EBook #60070]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TEXAS GEMSTONES ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                       BUREAU OF ECONOMIC GEOLOGY
+                   The University of Texas at Austin
+                          Austin, Texas 78712
+
+                      JOHN T. LONSDALE, _Director_
+
+
+                    Report of Investigations—No. 42
+
+
+
+
+                            Texas Gemstones
+
+
+                                   By
+                          Elbert A. King, Jr.
+
+                             February 1961
+
+                     _Second Printing—February 1963
+                     Third Printing—September 1972
+                       Fourth Printing—March 1983
+                      Fifth Printing—August 1991_
+
+
+
+
+                                Contents
+
+
+                                                                Page
+  Introduction                                                     5
+      Properties of gemstones                                      5
+      Crystals                                                     7
+  Cutting and polishing of gemstones                              10
+      Cabochon gems                                               10
+      Faceted gems                                                13
+      Tumbled gems                                                17
+  Texas gemstones                                                 18
+      Amber                                                       18
+      Augite                                                      18
+      Beryl                                                       18
+      Celestite                                                   19
+      Diamond                                                     19
+      Epidote                                                     19
+      Fluorite                                                    20
+      Fossil wood                                                 20
+      Gadolinite                                                  21
+      Garnet                                                      22
+      Jet                                                         22
+      Labradorite                                                 23
+      Microcline                                                  23
+      Obsidian                                                    24
+      Opal                                                        24
+      Pearl                                                       24
+      Quartz                                                      25
+          Crystalline varieties                                   25
+              Amethyst                                            25
+              Citrine                                             25
+              Rock crystal                                        26
+              Rose quartz                                         26
+              Smoky quartz                                        26
+          Cryptocrystalline varieties                             27
+              Chalcedony                                          27
+              Agate                                               27
+              Agatized wood                                       27
+              Carnelian                                           27
+              Jasper                                              27
+      Sanidine                                                    28
+      Spinel                                                      28
+      Tektite (bediasite)                                         28
+      Topaz                                                       29
+      Tourmaline                                                  30
+      Turquoise                                                   31
+  Glossary                                                        32
+  Selected references                                             34
+  Index                                                           41
+
+
+
+
+                             Illustrations
+
+
+  Figures—                                                      Page
+  1. Typical crystal form of three common Texas gemstones          9
+  2. Variations of the cabochon cut                               10
+  3. Diamond saw                                                  11
+  4. Cabochon properly attached to dop-stick                      12
+  5. Cabochons at various stages of cutting and polishing         12
+  6. Nomenclature of the standard American brilliant cut          13
+  7. Facet table                                                  14
+  8. Grinding the table facet on a rough stone                    15
+  9. Stone dopped to table facet                                  15
+  10. Preformed stone dopped to table facet                       16
+  11. Proper sequence of cutting of the pavilion facets           16
+  12. Proper placing of pavilion girdle facets                    17
+  13. Proper sequence of cutting of crown facets                  17
+  14. Common crystal form of Travis County celestite              19
+  15. Common crystal form of fluorite                             20
+  16. Crystal faces on microcline specimen shown in Plate III     23
+  17. Common crystal form of spinel                               28
+  18. Crystal faces on topaz crystal shown in Plate V             29
+  19. Cross section through irregularly colored stone             30
+  20. Common crystal form of Llano County tourmaline              31
+
+
+  Plates—                                                       Page
+  I. A, Gem-quality celestite crystals from Travis County. B,
+          Opalized wood from the Texas Gulf Coastal Plain 35
+  II. A, Gem-quality garnet crystals and faceted gem from Gillespie
+          County. B, Labradorite from Brewster County 36
+  III. A, Pink microcline crystal. B, Smoky quartz. Both from Burnet
+          County 37
+  IV. Polished agate from gravels of the Rio Grande near Zapata,
+          Zapata County 38
+  V. A, Texas tektites (bediasites). B, Topaz crystal from a
+          pegmatite dike near Streeter, Mason County 39
+  VI. A, Topaz from stream gravels near Streeter, Mason County. B,
+          Tourmaline crystals in schist from Llano County 40
+
+
+  Table 1. Properties of some common Texas gem minerals 8
+
+
+
+
+                            Texas Gemstones
+
+
+                          ELBERT A. KING, JR.
+
+
+
+
+                              INTRODUCTION
+
+
+Throughout history man has sought stones and minerals for personal
+adornment and ornamentation. Stones and minerals that are sufficiently
+beautiful, durable, and rare are known as gemstones. A gemstone with
+only one of these qualities is less desirable than one with all three.
+For example, a stone with rich color but not sufficiently durable to
+withstand daily wear in rings finds little favor as a gemstone except in
+brooches or pins where the stone is relatively safe from abrasion.
+Likewise, a stone that is beautiful and durable may be of little
+interest as a gemstone because it is commonly found in great quantities.
+To be valued highly, gemstones must be beautiful to the eye, durable
+enough to withstand wear, and rare enough so that they are not easily
+obtained.
+
+
+
+
+                        Properties of Gemstones
+
+
+The beauty of gemstones is mostly dependent on their color, diaphaneity,
+brilliancy, luster, and fire. Any one or a combination of these
+properties render stones desirable as gems.
+
+Color is very important in many gemstones. The color of transparent
+varieties should be distinct enough to be pleasing to the eye, yet not
+so dark as to appear black or opaque. It is generally more desirable
+that the gemstone be of even color and not appear “patchy” or
+“streaked.” However, some opaque or translucent stones such as agate owe
+their popularity chiefly to the variety of colors and designs within a
+single piece. Some transparent gemstones exhibit different colors when
+viewed in different directions. For example, some fine blood-red rubies
+appear brownish when viewed in a particular direction. The gemstone
+should be cut so that its finest color is most prominently displayed.
+This ability of some gemstones to exhibit different colors when viewed
+in different directions is called pleochroism.
+
+Diaphaneity is the relative ability of stones to transmit light.
+Diaphaneity is described by terms such as transparent, translucent, and
+opaque. Transparency is highly desirable in stones such as diamond that
+are commonly facet-cut to reflect light. The gemstone should be water
+clear and free from inclusions and cracks so that it transmits light
+freely, but there are stones that do not exhibit this property that are
+prized as gemstones. For example, turquoise may appear to be completely
+opaque and not transmit any light, but it is sought for its fine blue
+color.
+
+The brilliancy of gemstones is largely dependent on their index of
+refraction. The index of refraction is a measure of the ability of a cut
+gemstone to “bend” light rays and reflect them from the bottom facets
+back through the top of the stone. Of course, brilliancy is not noted in
+opaque or faintly translucent stones. The index of refraction of
+gemstones is expressed numerically. Air is the reference medium and is
+assigned an index of refraction of 1.00. Other substances are assigned
+values relative to that of air, for example, water, 1.33; topaz, 1.62;
+diamond, 2.42. The higher the index of refraction, the more brilliant
+will be the gemstone if it is properly cut and polished.
+
+Luster is the appearance of the mineral on a fresh surface in reflected
+light; it is divided into two major categories, metallic and
+non-metallic. Most gemstones have non-metallic luster and are described
+by terms such as vitreous or glassy, resinous, waxy, greasy, and pearly.
+
+The fire, or ability of gemstones to show flashes of different colors of
+light, is dependent upon a property called dispersion. The amount of
+dispersion is the extent to which the gemstone is able to separate
+ordinary white light into its component colors. The dispersion of
+gemstones can also be expressed numerically but for purposes of this
+publication will be referred to as low, moderate, or high. Diamond is a
+common gemstone that has high dispersion.
+
+A gemstone’s durability is primarily dependent upon its hardness. The
+Mohs scale of hardness, given below, is most commonly used for gemstones
+and other minerals.
+
+      _Mohs Scale of Hardness_
+  1. Talc
+  2. Gypsum
+  3. Calcite
+  4. Fluorite
+  5. Apatite
+  6. Orthoclase feldspar
+  7. Quartz
+  8. Topaz
+  9. Corundum
+  10. Diamond
+
+On this scale, the higher numbers are the harder minerals. Mohs is a
+relative, not an absolute scale. Therefore, it should not be assumed
+that diamond is ten times harder than talc because actually diamond is
+very many tens of times harder than talc. However, a particular mineral
+is harder than any other mineral with a lesser number, and the scale is
+very convenient to use. Gemstones mounted in rings should have a
+hardness of at least seven on the Mohs scale, or the stones may become
+scuffed and scratched after a relatively short period of wear. Gemstones
+mounted in pins and brooches can be of softer material as they are not
+usually subjected to abrasion and rough treatment.
+
+The tendency of some minerals to split with relative ease in particular
+directions along planes is called cleavage. Cleavage is also a factor
+determining the durability of gemstones. Some gemstones do not exhibit
+this tendency at all, whereas others cleave in several directions. The
+number of cleavages is always the same in any one mineral, and the
+direction of cleavages is constant in relation to the crystal structure
+of any one mineral or gemstone. It is apparent that of stones having the
+same hardness, the ones lacking cleavage or having the lesser number of
+good cleavage directions are the most durable.
+
+Some stones, such as jade and agate, owe their durability to their
+compact fibrous structure, which makes them very tough and durable even
+though they are not especially hard.
+
+Several other properties of gemstones, although not always contributing
+to the beauty or desirability of gemstones, are useful in identifying
+uncut specimens.
+
+Streak is the color of the mineral when finely powdered or, for softer
+minerals, the color obtained by rubbing the mineral against a piece of
+unglazed porcelain or tile. The color of a mineral’s streak is commonly
+different from the unpowdered specimen.
+
+Fracture is the kind of surface obtained when the mineral is broken in a
+direction that is not a cleavage direction. Fracture surfaces are
+described by such terms as conchoidal (like the fracture of glass),
+subconchoidal, splintery, even, and uneven.
+
+Tenacity is the resistance of a mineral to breakage. Brittle minerals
+break relatively easily on impact. Malleable minerals, such as gold, may
+be flattened under a hammer into very thin sheets without breaking.
+Sectile minerals may be cut with a knife without powdering. Most
+gemstones, even diamond, are brittle.
+
+It is only natural to value most those gemstones that are not common or
+easy to obtain. Emerald owes its longstanding popularity to its fine
+green color, but tourmaline is sometimes found in colors that very
+closely approach that of emerald and yet sells for considerably less
+because it is so much more common.
+
+Rarity is not the only factor affecting the value of gemstones. Freedom
+from internal imperfections, quality of cutting, color, and size must
+also be considered in cut and polished gemstones. Internal
+imperfections, such as inclusions and cracks, detract from the
+appearance of gemstones and interfere with the passage of light between
+the facets; consequently, gemstones containing these imperfections are
+not valued as highly as those without them. Poor cutting or polishing
+detract from the beauty and thus from the value of gemstones. Unpopular
+or poor color commonly causes gemstones to be less valuable. Rich green
+emeralds are exceedingly prized, whereas very pale green emeralds are
+relatively inexpensive. Diamonds that have the least hint of yellow are
+never valued as highly as pure colorless, pink, or blue stones. Few
+persons find the yellowish color attractive, unless it is a vivid canary
+yellow.
+
+Size is important in determining the value of gemstones but not as
+important as perfection. A badly flawed gemstone of large size may be
+worth only a slight fraction of the value of a smaller perfect one.
+Gemstone size is usually measured in carats, a unit of weight, although
+millimeter size is sometimes used. Five carats is equal to 1 gram and
+approximately 28⅓ grams is equal to 1 ounce avoirdupois. One
+one-hundredth (0.01) of a carat is called a point, and this term is
+often used, especially pertaining to very small gemstones.
+
+The term used to compare the relative weights of minerals and gemstones
+is specific gravity, which is expressed numerically in relation to
+water. Water is assigned the value of 1.00. Therefore, at a given
+temperature a gemstone having a specific gravity of 2.00 is twice as
+heavy as an equal volume of water. A 1-carat sapphire (specific gravity
+about 4.00) will be smaller than a 1-carat amethyst (specific gravity
+about 2.65) because the heavier material will occupy less volume to have
+the same weight.
+
+A summary of properties helpful in identification of common Texas gem
+minerals is given in Table 1.
+
+Comparatively recently in the history of gemstones, man has succeeded in
+the production of synthetic gems that have properties closely
+approaching those of many natural gemstones. To the untrained eye some
+synthetic gems may appear identical to natural stones, but synthetic
+gems can be detected with little difficulty by a properly equipped
+expert. Although most synthetic gems are inexpensive, their manufacture
+has not adversely affected the value of natural gemstones but instead
+has increased the demand for fine natural gems.
+
+
+
+
+                                Crystals
+
+
+Gemstones that have an orderly internal molecular arrangement are
+referred to as crystalline. This internal order is commonly reflected in
+the external shape of “rough” or uncut gemstones. The resultant shape is
+a polyhedral solid bounded by planes and called a crystal. Well-formed
+crystals are formed in nature only under relatively ideal conditions of
+temperature, pressure, and space. The specific temperatures and
+pressures involved vary with different minerals, but most crystals need
+space in which to form so that their “growth” is not impaired by
+surrounding rocks and minerals. However, some minerals, such as garnet
+and tourmaline, can grow in metamorphic rocks by recrystallization of
+minerals in the metamorphic rocks. The size of crystals varies from
+microscopic to tens of feet. Any one mineral usually has one or two
+typical crystal forms or arrangements of plane surfaces that aid greatly
+in the identification of the mineral when it occurs in good crystals
+(fig. 1). Frequently gemstones are found as abraded stream-rolled
+pebbles, fragments, or masses that do not show crystal form. Crystals of
+the same mineral from different locations commonly show somewhat
+different crystal forms owing to slight differences in composition or
+conditions of formation. Mineralogists and crystallographers classify
+crystals by the symmetry that they exhibit. The crystal systems are (1)
+isometric or cubic, (2) tetragonal, (3) hexagonal, (4) orthorhombic, (5)
+monoclinic, and (6) triclinic. A complete description of the
+classification of crystals can be found in almost any mineralogy text
+(see Selected References, p. 34).
+
+               Table 1. Properties of some common Texas gem minerals.
+    MINERAL        COMPOSITION      HARDNESS  SPECIFIC    INDEX OF       COMMON
+                                               GRAVITY   REFRACTION     COLORS IN
+                                                                          TEXAS
+
+ Amber             fossil resin     2.0-2.5   1.05-1.10  about 1.54   brown, yellow
+ Augite             CaMgSi₂O₆       5.0-6.0    3.2-3.6    1.60-1.71     greenish
+                                                                      brown, black
+ Beryl             Be₃Al₂(SiO)₆     7.5-8.0   2.63-2.80   1.56-1.60    pale blue,
+                                                                       colorless,
+                                                                        greenish
+ Celestite            SrSO₄         3.0-3.5   3.95-3.98   1.62-1.63    colorless,
+                                                                          blue
+ Epidote             HCa₂(Al,       6.0-7.0   3.25-3.50   1.72-1.77     yellowish
+                    Fe)₃Si₃O₁₃                                           green,
+                                                                        brownish
+                                                                          green
+ Fluorite              CaF₂           4.0     3.0-3.25      1.434      colorless,
+                                                                         violet,
+                                                                      yellow, green
+ Garnet           Fe₃Al₂(SiO₄)₃    about 7.5    4.25     about 1.83     red, deep
+  (Almandite)                                                             red,
+                                                                      brownish red
+ Labradorite     NaAlSi₃O₈ 50% to   6.0-6.5   about 2.6  about 1.56    yellowish,
+                30% CaAlSi₃O₈ 50%                                        grayish
+                      to 70%
+ Microcline          KAlSi₃O₈       6.0-6.5   2.54-2.57   1.52-1.53    pink, red,
+                                                                         bluish,
+                                                                        greenish,
+                                                                          white
+ Obsidian         volcanic glass    5.0-5.5    2.3-2.5    1.45-1.53    dark gray,
+                                                                         black,
+                                                                        brownish
+ Opal               SiO₂·nH₂O       5.5-6.5    1.9-2.3      1.43      white, pink,
+                                                                         bluish,
+                                                                       brown, gray
+ Quartz                SiO₂           7.0     2.65-2.66  1.544-1.553   colorless,
+  (Crystalline)                                                          violet,
+                                                                      yellow, brown
+ Tektite          natural glass       5-6     2.33-2.44   1.48-1.52    dark brown,
+  (Bediasite)                                                           greenish
+                                                                          brown
+ Topaz            Al₂(F·OH)₂SiO₄      8.0      3.4-3.6    1.60-1.63    colorless,
+                                                                       bluish, sky
+                                                                          blue
+ Tourmaline     H₉Al₃(B·OH)₂Si₄O₁₉  7.0-7.5   2.98-3.20   1.62-1.64    black, dark
+                                                                          brown
+
+Some gemstones, such as opal and obsidian, never occur as crystals owing
+to a lack of internal structural order. Such gemstones are termed
+amorphous, or without form. Amorphous gemstones mostly occur in nature
+as irregular lumps or masses, cavity fillings, or veins.
+
+   [Illustration: Fig. 1. Typical crystal form of three common Texas
+                              gemstones.]
+
+  GARNET
+  TOURMALINE
+  QUARTZ
+
+
+
+
+                   CUTTING AND POLISHING OF GEMSTONES
+
+
+There are two types of widely used gemstone cuts. Opaque or figured
+gemstones are usually cut with a rounded upper surface and a flat or
+rounded back. A stone cut in this fashion is termed a cabochon or is
+said to be cabochon cut. There are several variations of this mode of
+cutting (fig. 2). Precious opal, agate, jade, star sapphire, and fossil
+wood are some of the stones that are cut mostly as cabochons.
+Transparent gemstones are usually cut with many plane polished surfaces.
+Such stones are called faceted, and the process of cutting and polishing
+these stones is called faceting. Emerald, diamond, topaz, and garnet are
+examples of gemstones that are commonly seen as faceted stones.
+
+ [Illustration: Fig. 2. Variations of the cabochon cut. Left to right:
+   double cabochon; flat cabochon; simple cabochon; hollow cabochon.]
+
+The cutting of gemstones, although sometimes tedious and time consuming,
+is not especially difficult or complex. However, like most arts and
+crafts, technique and ability should improve with practice and
+experience. There are currently many amateur gem cutters in Texas. A
+complete set of equipment necessary to cut cabochon stones may be
+purchased for as little as $50.00 or $60.00. Most amateur cabochon
+cutters have equipment that cost less than $100.00 which enables them to
+do very fine work on many gem materials. Facet cutting requires more
+precise equipment, and a complete array of such usually costs more than
+$100.00, although less expensive equipment can be obtained. The
+beginning gem cutter or lapidary who is willing to assemble and make
+some of his own equipment can reduce his initial expenses considerably.
+
+
+
+
+                             Cabochon Gems
+
+
+The procedures listed herein for gem cutting do not apply to all
+gemstones. Stones that are especially brittle, soft, or difficult to
+polish require additional procedures or special techniques. Many
+lapidaries may deviate from these procedures. Some of the steps of
+cutting and polishing are merely matters of personal opinion and vary
+somewhat from cutter to cutter. There are several detailed texts on the
+art of gem cutting; the descriptions herein are designed to give the
+reader only a general idea of the procedures and techniques involved.
+
+The cutting and polishing of cabochons require several steps. The
+initial step is sawing. Assuming that the rough gem material is large
+enough to be sawed (larger than about half an inch in diameter), it is
+clamped into the carriage of a diamond saw (fig. 3) and cut into slices
+about ⅜-inch thick. The blade of the saw is mild steel that has been
+impregnated with diamond dust around the edge, hence the name diamond
+saw. The blade is rotated rapidly, and the material to be cut is “fed”
+to the blade by a sliding carriage on which the gem material is clamped.
+The extreme hardness of the diamond dust in the edge of the blade
+enables the saw to cut through several inches of gem material in a few
+minutes. The lower portion of the saw blade is immersed in a mixture of
+kerosene and oil, and the rotating saw blade carries with it some of the
+kerosene-oil mixture; this acts as a coolant and lubricant for both the
+saw blade and the material being cut. Without this lubricant, the heat
+generated by sawing would shatter most gem materials and also damage the
+saw blade. As this “slicing” or sawing of the material usually takes
+several minutes, a weight and pulley are generally used to give the gem
+material the necessary pressure against the saw blade. When cut through,
+the “slab” of gem material falls into the kerosene-oil mixture at the
+bottom of the saw or onto a special platform that cushions its fall.
+
+                  [Illustration: Fig. 3. Diamond saw.]
+
+  Motor
+  Clamp
+  Diamond-charged blade
+  Carriage
+  Stone
+  Weight
+
+After being sawed, the slab of gem material is examined, and the
+location and size of the stones to be cut from the slab are determined.
+The desired outline of the shape of the gem to be cut is marked on the
+slab with a pointed piece of aluminum rod; ordinary pencil marks are not
+used because they wear away too quickly in the cutting process. Once the
+area from which the gem is to be cut has been selected and the outline
+of the gemstone has been marked on the slab, the excess material is
+trimmed away by a smaller diamond saw known as a trim-saw. In some slabs
+the excess material can be broken and “nibbled” away with a strong pair
+of pliers.
+
+The remaining portion of the stone is usually held by hand and ground to
+the desired shape using the previously scribed mark as a guide. This is
+done using a relatively coarse-grained (about 150 grit) specially made
+carborundum grinding wheel.
+
+Now that the desired outline has been obtained, the stone is firmly
+affixed to a slender wooden or hollow aluminum dop-stick (fig. 4). The
+process whereby the stone is attached to the dop-stick with a specially
+compounded jeweler’s wax is called dopping. The dop-wax is heated over
+an alcohol lamp or candle flame until it is soft and pliable and is then
+spread around on the end of the dop-stick and formed into a mass about
+the right size and shape to fit the back of the gemstone. The stone is
+likewise heated, and the wax is applied to the back of the stone while
+both wax and stone are hot. Upon cooling, the wax firmly fixes the stone
+to the dop-stick. The dop-stick allows the lapidary to have firm control
+of the stone during all later stages of cutting and polishing.
+
+    [Illustration: Fig. 4. Cabochon properly attached to dop-stick.]
+
+  CABOCHON
+  DOP-WAX
+  DOP-STICK
+
+The top of the dopped gemstone is worked against the coarse carborundum
+grinding wheel until it is a rough approximation of the desired shape.
+The stone is then worked against a much finer-grained (about 220 grit)
+grinding wheel to remove the irregularities left by the coarse grinding
+and to further smooth and shape the surface of the gemstone. At all
+times while grinding, a small flow of water should be directed on the
+grinding wheel to keep the stone cool. Grinding on the stone for even a
+few minutes without cooling may result in the shattering of the gemstone
+because of heat created by friction of the stone against the grinding
+wheel. If the lapidary keeps the surface of the grinding wheel wet,
+there is little chance of damaging most gem materials.
+
+The next phase of cabochon cutting and polishing is sanding. The
+gemstone is worked against two sanding drums of different grit size.
+This sanding can be done with the sandpaper surface either wet or dry,
+as needed or as preferred by the lapidary. However, great care should be
+exercised during sanding so that the stone is not overheated.
+Overheating can easily occur whether the sandpaper is used wet or dry.
+As in grinding, sanding is first done on coarser grit paper (about 300
+grit) and last on finer paper (about 600 grit). It is in the sanding
+process that the first hint of polish is noted on the surface of the
+stone. After sanding, the gemstone should have perfect form with no
+surface irregularities, a very finely textured surface, and only very
+minor scratches left from sanding. The gemstone is now ready to be
+polished.
+
+   [Illustration: Fig. 5. Cabochons at various stages of cutting and
+ polishing. Left to right: trimmed from slab: ground to outline; after
+               rough grinding; after sanding; polished.]
+
+At this point the procedure depends on the nature of the gemstone being
+polished. Most gem materials are worked against a buffing wheel that is
+impregnated or saturated with a mixture of some polishing compound and
+water. A soft felt buffing wheel with cerium oxide as the polishing
+agent is used for many materials. The mixture of cerium oxide and water
+is usually applied to the buffing wheel with a small brush. The lapidary
+should once more be careful not to overheat the stone. If the stone
+becomes too hot to hold to the underside of the cutter’s wrist, it
+should be permitted to cool for a few seconds before continuing. After
+polishing on the buffing wheel, the gemstone should have a fine, high
+polish and be free of any scratches or surface irregularities. The
+finished gemstone is removed from the dop-stick by heating the dop-wax
+and pulling the stone loose. Any excess wax that hardens again before it
+can be removed from the stone by hand can be dissolved away by rubbing
+with an acetone-soaked cloth. Figure 5 illustrates the desired
+appearance of the gemstone at the end of each of the steps of cutting
+and polishing.
+
+
+
+
+                              Faceted Gems
+
+
+The principles involved in faceting are about the same as those in the
+cutting of cabochons, but the equipment and technique are considerably
+different. The equipment required for the facet cutting of gemstones is
+built into or attached to a small specially constructed table (fig. 7),
+and the unit is commonly called a facet table. Most faceted gemstones
+are cut to obtain the largest flawless stone possible from the rough
+material. Therefore, one of the first and most important steps for the
+lapidary is to decide how the stone is to be cut from the rough crystal
+or pebble. The colors that can be obtained from the gemstone must also
+be considered, and the cutting of the stone oriented so that its best
+color is displayed. The lapidary also selects the orientation of the
+stone in relation to the cleavage or cleavages. It is difficult or
+impossible to polish facets of gemstones that are cut parallel to a good
+cleavage direction.
+
+ [Illustration: Fig. 6. Nomenclature of the standard American brilliant
+                                 cut.]
+
+  TOP VIEW
+  SIDE VIEW
+    Star facet
+    Crown main facet
+    Crown girdle facet
+    Pavilion girdle facet
+    Pavilion main facet
+    TABLE
+    CROWN GIRDLE
+    PAVILION
+    CULET
+  BOTTOM VIEW
+
+Once the orientation of the gemstone to be cut from the rough material
+has been determined, the stone is dopped onto a special metal dop-stick
+that fits into the chuck of the facet head. The chuck is tightened so
+that the position of the stone on the end of the arm of the facet head
+is firmly fixed, and the facet head is adjusted so that the first facet
+that is cut is the horizontal, top facet of the stone or table facet
+(fig. 6). The table facet is cut by grinding the gemstone on a flat
+cutting lap that is diamond impregnated (fig. 8). By minor adjustments
+of the facet head, the lapidary can precisely control the location of
+the table facet. As soon as the table facet has been ground to the
+proper size, the cutting lap is removed from the lap plate, and the
+polishing lap is secured in place. Many different kinds of polishing
+laps and polishing compounds may be used depending on the properties of
+the material being polished. However, one lap and one polishing compound
+are usually sufficient for each gem variety. After the polishing lap is
+secured to the lap plate, the lapidary adjusts the facet head so that
+the stone is in exactly the same position relative to the lap that it
+was during the cutting of the table facet. The polishing lap is run wet
+or damp with water, as is the cutting lap, and small amounts of the
+polishing compound are applied to the surface of the lap while the facet
+is being polished. The minor scratches left by the cutting process are
+gradually removed, and a fine lustrous polish develops on the facet. It
+is especially important to take care in achieving a perfect polish on
+the table facet, as this facet occupies a large area of the crown of the
+gemstone. When the cutting and polishing of the table facet are
+completed, the gemstone is still rough or uncut in all portions except
+for this single, large, polished surface.
+
+                  [Illustration: Fig. 7. Facet table.]
+
+  Water
+  Light
+  Adjusting ring
+  Post
+  Arm
+  Chuck
+  Stone
+  Abrasives
+    DIAMOND DUST
+    CALCIUM OXIDE
+    LANDE-A
+
+   [Illustration: Fig. 8. Grinding the table facet on a rough stone.]
+
+  CHUCK
+  DOP-STICK
+  DOP-WAX
+  STONE
+  LAP
+
+The gemstone is then removed from the dop-stick by melting the dop-wax
+and is dopped once more so that the plane of the polished table facet is
+perpendicular to the axis of the chuck and arm of the facet head (fig.
+9). Great care should be taken by the lapidary to insure that the table
+of the stone is exactly perpendicular to this axis, or the proper
+placing of the later facets on the stone may become very difficult.
+
+          [Illustration: Fig. 9. Stone dopped to table facet.]
+
+  TABLE FACET
+  DOP-WAX
+  STONE
+  DOP-STICK
+
+Once the stone has been properly dopped to the table facet, the lapidary
+is ready to proceed with the cutting of the outline of the stone. If it
+is to be a brilliant cut, the stone is ground perfectly round in
+outline; if it is to be an emerald or step cut, it is shaped so that it
+is square or rectangular in outline. This process is called preforming.
+The arm of the facet head is lowered on the post until it is horizontal,
+and the stone is worked against the cutting lap until the desired shape
+is obtained. When the preforming process is completed, the stone should
+have the desired outline of the finished gem (fig. 10).
+
+    [Illustration: Fig. 10. Preformed stone dopped to table facet.]
+
+  DOP-WAX
+  STONE
+  DOP-STICK
+
+The lapidary is now ready to proceed with the cutting of the pavilion of
+the stone. The arm of the facet head is raised to the proper angle for
+cutting the main pavilion facets. The angle at which the main facets are
+cut is very critical in determining the beauty of the finished stone.
+The required angle at which these facets must be cut varies with the
+refractive indices of the different varieties of gem minerals. If the
+facets are not cut at exactly the proper angle, light entering the top
+or crown of the gemstone can pass completely through the stone, instead
+of being reflected back out of the crown facets. The result is a dull,
+lifeless stone that appears to have a “hole” or “fish-eye” in the
+center. Stones that are cut in this manner are greatly reduced in value.
+The angle at which the facets are cut is controlled by the adjustment of
+the height of the arm of the facet head on the post. The lapidary will
+continually adjust this height, because the angle between the arm and
+the surface of the lap changes slightly as the facet is ground down to
+its proper place and size.
+
+   [Illustration: Fig. 11. Proper sequence of cutting of the pavilion
+facets. Left to right: four main facets; all eight main facets; half of
+            the pavilion girdle facets; completed pavilion.]
+
+The standard American brilliant cut will be used as an example of facet
+cutting. Procedure for all other cuts is essentially the same to this
+point. After the eight main pavilion facets have been cut, the cutting
+angle is changed a few degrees, the arm of the facet head rotated
+slightly, and the sixteen pavilion girdle facets or “skill” facets, as
+they are often called, are cut (fig. 11). The pavilion girdle facets
+should meet exactly in the center of the main facets at the girdle of
+the stone. The pavilion girdle facets should neither overlap, nor should
+there be any space between them (fig. 12). After the pavilion girdle
+facets are cut, the cutting of the pavilion of the gemstone is
+completed. The facets are then polished on the polishing lap at the same
+angles and in the same order as they were cut, and the pavilion of the
+gem is completely finished.
+
+The stone is then removed from the dop-stick by melting the dop-wax and
+is re-dopped to the pavilion facets so that the crown of the stone is
+now exposed for cutting. Before the lapidary proceeds with the cutting
+of the crown, it is necessary that the stone be perfectly centered on
+the dop-stick and that the plane of the table facet be perpendicular to
+the dop-stick and to the axis of the arm of the facet head. The eight
+main facets are cut first, with numerous adjustments being made by the
+lapidary to insure that the proper angle is maintained (fig. 13). Then
+the cutting angle is changed a few degrees, the arm of the facet head
+rotated slightly, and the crown girdle facets are cut. The crown girdle
+facets are placed very similarly to the pavilion girdle facets except
+that they are shorter. The crown girdle facets should be joined in
+exactly the same way as the pavilion girdle facets. When these facets
+are properly cut, the cutting angle is again changed, the arm rotated,
+and the eight star facets are cut. This completes the cutting of the
+crown of the stone. The cutting lap is removed from the lap plate, and
+the polishing lap is secured into place. The facets are carefully
+polished in the same order that they were cut. After the last star facet
+has been polished, the stone is removed from the dop-stick. Any excess
+dop-wax is removed from the stone by means of a solvent, and the full
+beauty of the finished gem is revealed.
+
+
+
+
+                              Tumbled Gems
+
+
+One other method of finishing gemstones that deserves mention is
+tumbling. “Baroque” or “free-form” stones are produced in this manner.
+Loose pebbles or pieces of gem materials left over from other cutting
+processes are placed in a small barrel or specially constructed box with
+loose carborundum grit. The barrel is turned by means of a small motor,
+and the abrasion of the pebbles and grit against each other tends to
+round the pebbles and give them a finely pitted surface. Progressively
+finer and finer carborundum grit is used, and eventually a polishing
+compound. The result is several pounds of well-polished gem pebbles of
+various shapes and sizes. These baroque stones have found recent favor
+in costume jewelry of modern design. The tumbling process is rather
+slow, commonly requiring several days or weeks. However, little effort
+is involved on the part of the lapidary, and, consequently, the cost of
+most tumbled or baroque stones is quite modest. Only gem material that
+is unsuitable for cutting in other manners should be finished in this
+way.
+
+ [Illustration: Fig. 12. Proper placing of the pavilion girdle facets.
+  Left: facets not joined. Center: facets overlapped, joined too high.
+                        Right: correct placing.]
+
+  Stone
+  Dop-wax
+  Dop-stick
+  Chuck
+
+[Illustration: Fig. 13. Proper sequence of cutting of the crown facets.
+  Left to right: four main facets; all eight main facets; half of the
+                 crown girdle facets; completed crown.]
+
+
+
+
+                            TEXAS GEMSTONES
+
+
+
+
+                                 Amber
+
+
+  _Composition_: fossil resin. _Crystal system_: amorphous. _Hardness_:
+  about 2.0 to 2.5. _Specific gravity_: variable, from 1.05 to 1.10.
+  _Luster_: resinous. _Color_: brown, yellow, red, orange, and white.
+  _Streak_: white to yellowish to gray. _Cleavage_: none. _Fracture_:
+  conchoidal. _Tenacity_: brittle. _Diaphaneity_: transparent to
+  translucent. _Refractive index_: variable, about 1.54. Burns with a
+  sweet, piney odor.
+
+Rich brown to yellowish amber has been found near Eagle Pass, Maverick
+County, in Cretaceous coal and on Terlingua Creek, Brewster County.
+Although much of this material is translucent and the quality suitable
+for lapidary purposes, the pieces are seldom more than a fraction of an
+inch in diameter.
+
+Occasional finds of poor quality brownish amber have been reported from
+the Tertiary formations of the Gulf Coastal Plain, but thus far no gem
+quality material has been found.
+
+The softness of amber limits its use to brooches, necklaces, and other
+jewelry that is relatively safe from abrasion.
+
+
+
+
+                                 Augite
+
+
+  _Composition_: CaMgSi₂O₄; may also contain iron, aluminum, and
+  sometimes titanium. _Crystal system_: monoclinic. _Hardness_: 5 to 6.
+  _Specific gravity_: 3.2 to 3.6. _Luster_: vitreous to dull. _Color_:
+  dark greenish brown and greenish black. _Streak_: light grayish green.
+  _Cleavage_: two directions, poor. _Fracture_: conchoidal to uneven.
+  _Tenacity_: brittle. _Diaphaneity_: opaque to translucent. _Refractive
+  index_: variable, about 1.60 to 1.71.
+
+Augite of gem quality occurs near Eagle Flat, Hudspeth County, Texas.
+Although this material is very dark greenish brown and not commonly
+thought of as a gemstone, lapidaries have used it to fashion black
+faceted stones and cabochons that resemble obsidian. Most of the augite
+occurs as loose pieces and crystal fragments that have weathered out of
+nearby igneous rocks; the augite can also be found in situ in the
+igneous rocks.
+
+Specimens and pieces of cutting quality 1 inch in diameter are common,
+and fragments over 2 inches in diameter have been found. The augite is
+associated with black spinel and some dark gray to black pieces of
+natural glass. Although the faceted and cabochon-cut stones are not
+particularly attractive, some of the larger pieces of augite might be
+utilized for carving.
+
+
+
+
+                                 Beryl
+
+
+  _Composition_: Be₃Al₂(SiO)₆. _Crystal system_: hexagonal. _Hardness_:
+  7.5 to 8.0. _Specific gravity_: 2.63 to 2.80. _Luster_: vitreous.
+  _Color_: pale blue, blue, green, yellow, brownish, pink, and
+  colorless. _Streak_: white. _Cleavage_: one direction, very imperfect.
+  _Fracture_: conchoidal to uneven. _Tenacity_: brittle. _Diaphaneity_:
+  transparent to subtranslucent. _Refractive index_: 1.56 to 1.60.
+  _Dispersion_: low.
+
+Gem-quality beryl has not been reported in Texas. A discussion of beryl
+is included herein because the writer believes it likely that beryl of
+gem quality will be found in Texas as a result of future investigations
+and exploration.
+
+Beryl crystals have been found in pegmatite dikes in Llano, Blanco, and
+Gillespie counties. These crystals are commonly several inches long and
+exceed 1 inch in diameter but are very badly fractured. Most of the
+beryl crystals do not approach gem quality and are entirely unsuitable
+for any lapidary use. The color of the crystals found thus far is
+bluish, greenish, pinkish brown, yellowish, and colorless. Some very
+tiny colorless beryl crystals have been found that are transparent, but
+thus far such crystals have been too small to be cut into gems.
+
+Fine blue beryl crystals have been found in the Franklin Mountains near
+El Paso, Texas. Unfortunately, these crystals are so badly flawed and
+fractured that they are not suitable for lapidary use.
+
+It seems likely that careful prospecting of Texas pegmatites will reveal
+at least some gem-quality beryl.
+
+
+
+
+                               Celestite
+
+
+  _Composition_: SrSO₄. _Crystal system_: orthorhombic. _Hardness_: 3.0
+  to 3.5. _Specific gravity_: 3.95 to 3.98. _Luster_: vitreous. _Color_:
+  white, blue, greenish, reddish, and brownish. _Streak_: white.
+  _Cleavage_: three directions, although one of these directions is not
+  easily developed. _Fracture_: uneven. _Tenacity_: brittle.
+  _Diaphaneity_: transparent to subtranslucent. _Refractive index_: 1.62
+  to 1.63. _Dispersion_: moderate.
+
+Celestite is very seldom cut into gems. Being very soft, brittle, and
+having three cleavages, celestite is completely unsuitable for jewelry.
+These same properties make this mineral exceedingly difficult to facet;
+however, faceted stones are seen in large collections.
+
+[Illustration: Fig. 14. Common crystal form of Travis County celestite.
+               Same crystal form as shown in Plate I, A.]
+
+Fine crystals of colorless and blue gem-quality celestite (Pl. I, A, and
+fig. 14) have been found at Mount Bonnell and other localities west of
+Austin, Travis County. The celestite crystals occur in vugs or geodes in
+limestone. The crystals are mostly white or colorless and fractured near
+the base or where attached, but the tips of the crystals are commonly
+clear celestine blue and completely free of flaws.
+
+Crystals several inches in length have been found, but the average size
+is about 1 inch. The smaller crystals are frequently more transparent
+and consequently better suited for cutting. It is very difficult to
+obtain crystals that will allow the cutting of flawless stones of more
+than 4 or 5 carats.
+
+Bluish and colorless celestite of gem quality and fine crystals have
+been found near Lampasas, Lampasas County, and near Brownwood, Brown
+County, but neither of these localities has been very productive of good
+gem material.
+
+Celestite geodes have been found in parts of Coke, Fisher, and Nolan
+counties, but these geodes contain little gem material.
+
+
+
+
+                                Diamond
+
+
+  _Composition_: carbon. _Crystal system_: isometric. _Hardness_: 10.
+  _Specific gravity_: 3.51 to 3.53. _Luster_: adamantine to greasy.
+  _Color_: brown, colorless, pink, blue, yellow, and various other light
+  colors; rarely deeply colored; sometimes black. _Cleavage_: four
+  directions, octahedral, perfect. _Fracture_: conchoidal. _Tenacity_:
+  brittle. _Diaphaneity_: transparent to opaque. _Refractive index_:
+  2.42. _Dispersion_: high.
+
+There is only one well-authenticated find of diamond in Texas. A small
+brownish diamond was found in 1911 on section 64, block 44, Foard County
+(Sterrett, 1912, pp. 1040-1041). The exact weight of the stone has not
+been recorded, but one authority estimated that it was of sufficient
+size and clarity to yield a cut stone of about one-quarter carat.
+
+The only diamond-bearing rocks known in the United States are in Pike
+County, Arkansas. Although many other diamonds have been found in the
+United States, all were loose in gravels or streams except for some
+stones at the Arkansas locality. The fact that one diamond was found in
+Foard County does not mean that the prospects of finding more diamonds
+in Texas are much better there than anywhere else in the State. It is
+highly unlikely that more than a very few diamonds will ever be found in
+Texas, and any stones that may be found in the future are likely to be
+widely scattered.
+
+
+
+
+                                Epidote
+
+
+  _Composition_: HCa₂(Al, Fe)₂Si₃O₁₃. _Crystal system_: monoclinic.
+  _Hardness_: 6 to 7. _Specific gravity_: 3.25 to 3.5. _Luster_:
+  vitreous. _Color_: yellowish green to brownish green and brown.
+  _Streak_: uncolored to grayish. _Cleavage_: two directions.
+  _Fracture_: uneven. _Tenacity_: brittle. _Diaphaneity_: transparent to
+  opaque. _Refractive index_: about 1.72 to 1.77.
+
+Llano County has furnished some green and brownish-green epidote that is
+suitable for cutting into cabochons. Most of the material that
+approaches gem quality has come from contact metamorphic zones and is
+associated with garnet, quartz, and some scheelite. Some small cavities
+in the rocks contain tiny transparent crystals of gem quality, but the
+largest obtainable flawless faceted stones would probably be less than
+15 points.
+
+Faceted stones of epidote are sometimes known as pistacite owing to
+their common pistachio-green color.
+
+
+
+
+                                Fluorite
+
+
+  _Composition_: CaF₂. _Crystal system_: isometric. _Hardness_: 4.
+  _Specific gravity_: 3.0 to 3.25. _Luster_: vitreous. _Color_: violet,
+  blue, colorless, green, yellow, brown, rose, and crimson red.
+  _Streak_: white. _Cleavage_: four directions, octahedral, perfect.
+  _Fracture_: subconchoidal to splintery. _Tenacity_: brittle.
+  _Diaphaneity_: transparent to subtranslucent. _Refractive index_:
+  1.434.
+
+Very fine green, transparent fluorite has been found near Voca, Mason
+County. The fluorite occurs as vug fillings in pegmatites, associated
+with crystals of pink microcline and colorless quartz. Most of the vugs
+have been completely filled by the fluorite; therefore, crystals (fig.
+15) of the fluorite are not too common. Masses of fluorite several
+pounds in weight, rich green, and quite transparent have been found near
+Voca. Transparent pieces an inch or more in diameter are common.
+
+       [Illustration: Fig. 15. Common crystal form of fluorite.]
+
+Fluorite is much too soft for everyday use in jewelry and because of the
+low refractive index does not yield brilliant faceted stones. The
+perfect four-directional cleavage, relative softness, and brittle
+tenacity of the mineral make it difficult to facet. Faceted stones are
+seldom seen outside of collections. Cabochons are also difficult to cut
+from this material, but the rich color obtained is ample reward for the
+time and care necessary in cutting.
+
+Fluorite occurs at several other localities in Texas, notably in
+Hudspeth, Brewster, Presidio, Llano, and Burnet counties, but not
+commonly in gem quality or colors that warrant its use as gem material.
+
+
+
+
+                              Fossil Wood
+
+
+Wood that is buried in silica-rich sediments is commonly replaced by
+quartz, agate, or opal. The wood structure, including a large number of
+the annular rings, knots, small branches, and bark, may be preserved.
+This process of replacement by silica is believed to take considerable
+time. Preservations by other means (_see_ Jet, p. 22) are known, but
+silica replacements are most commonly used as gem materials.
+
+Fossil wood is often used by lapidaries as gem material when mineral
+replacement preserves the wood structure sufficiently well and when
+various impurities color the replacement material attractively.
+
+Excellent gem-quality fossil wood (Pl. I, B) has been found at a great
+number of localities in Texas. Agatized and opalized wood occurs in
+great abundance along the outcrops of Eocene and Oligocene strata of the
+Texas Gulf Coastal Plain. Much of this material is very well suited for
+cabochons, bookends, and other lapidary uses. The preservation is
+especially good at numerous localities in Washington, Lee, Fayette, and
+Gonzales counties, and the variety of colors, such as bluish, gray,
+brown, red, yellow, and black, makes this material especially sought
+after by “rock-hounds.” Some of the agatized and opalized wood
+fluoresces yellow or green under ultra-violet light. The fossil wood is
+sometimes found as stumps, limb sections, or large trunk fragments, but
+the great majority of the gem material is found as small broken
+fragments or stream-rolled cobbles.
+
+Fossil palm wood is by far the most sought after variety because this
+material displays “eyes” and tube-like structures that yield very
+attractive cabochons and cabinet specimens. Texas fossil palm wood is
+highly regarded by cutters from all parts of the country, and this
+material is thought by many lapidaries to be some of the finest
+gem-quality fossil wood in the United States.
+
+Gravel pits and river gravels in Live Oak County have produced very fine
+agatized wood. Although the gem material does not seem to be as abundant
+in this area as it is in counties to the northeast, the vivid colors and
+excellent preservation of the fossil wood in Live Oak County have
+attracted collectors from all over the State. The fossil wood usually
+occurs as large rounded cobbles in the streams. Much of this material is
+quite translucent when cut and contains various shades of brown, orange,
+and red.
+
+The gravels of the Rio Grande have produced some fossil wood in addition
+to the excellent agate that is also found there. Most of the fossil wood
+found in these gravels is very well preserved, but the colors are
+commonly dull shades of brown. Occasional fine red and yellow specimens
+have been recovered from the Rio Grande gravels, but these are rare.
+
+Good agatized wood has been found in and near Palo Duro Canyon,
+Armstrong County, about 50 miles southeast of Amarillo. Large trunk
+sections are not uncommon, but most of the material of cutting quality
+is obtained from small fragments. The Palo Duro Canyon fossil wood
+greatly resembles the famous Arizona Petrified Forest wood but is not
+nearly as plentiful. The Palo Duro wood contains yellow, brown, red, and
+bluish colors most commonly. Some of the wood-producing area is within
+Palo Duro Canyon State Park which is, of course, closed to collecting.
+The surrounding area has been worked diligently by local collectors, but
+new pieces of wood are exposed after heavy rains.
+
+Webb and Duval counties have also produced some good fossil wood
+specimens.
+
+
+
+
+                               Gadolinite
+
+
+  _Composition_: Be₂FeY₂Si₂O₁₀. (Various other rare-earth elements may
+  substitute into this mineral structure.) _Crystal system_: monoclinic.
+  _Hardness_: 6.5 to 7.0. _Specific gravity_: about 4.2. _Luster_:
+  vitreous to greasy. _Color_: black; in thin splinters dark bottle
+  green. _Streak_: white to greenish. _Cleavage_: none. _Fracture_:
+  conchoidal to splintery. _Tenacity_: brittle. _Diaphaneity_: opaque to
+  subtransparent in thin pieces. _Refractive index_: variable, about
+  1.77 to 1.82.
+
+Gadolinite as a cut gem is not seen outside of large collections;
+however, it can be faceted into black opaque stones of little beauty but
+of great interest to collectors. The best known locality of this mineral
+in the United States is Baringer Hill, Llano County, Texas.
+Unfortunately, this locality was completely flooded by the completion of
+Buchanan Dam in 1938. Masses and rough crystals of gadolinite weighing
+over 100 pounds were mined from this locality. The gadolinite occurred
+in a large, very coarse-grained pegmatite dike associated with quartz,
+microcline, and fluorite, as well as allanite, fergusonite, nivenite,
+cyrtolite, thorogummite, and various other rare minerals. Some of the
+minerals in the dike occurred in very large masses. One quartz mass over
+40 feet in diameter was noted, and microcline masses up to 30 feet in
+diameter were not uncommon. Much of the gadolinite was used by
+industrial firms as a source of thorium compounds, although some
+specimen and gem material found its way into museums and private
+collections. Because the locality was worked mostly from 1910 to about
+1925 and because since 1938 the waters of Lake Buchanan have completely
+flooded the entire area, material from this locality is now exceedingly
+difficult to obtain. The collection of the Smithsonian Institution,
+Washington, D.C., contains a cut and polished gem of Baringer Hill
+gadolinite that weighs 8.6 carats. This mineral is radioactive because
+of the presence of uranium, thorium, and other rare radioactive
+elements.
+
+
+
+
+                                 Garnet
+
+
+The garnet group of minerals is variable in composition. Listed below
+are the pure members of this group, but garnets found in nature are
+usually a mixture of two or more of these end members.
+
+  Aluminum garnet—
+    Grossularite (calcium-aluminum garnet), Ca₃Al₂(SiO₄)₃
+    Pyrope (magnesium-aluminum garnet), Mg₃Al₂(SiO₄)₃
+    Almandite (iron-aluminum garnet), Fe₃Al₂(SiO₄)₃
+    Spessartite (manganese-aluminum garnet), Mn₃Al₂(SiO₄)₃
+  Iron garnet—
+    Andradite (calcium-iron garnet), Ca₃Fe₂(SiO₄)₃; may contain
+          magnesium, titanium, and yttrium
+  Chromium garnet—
+    Uvarovite (calcium-chromium garnet), Ca₃Cr₂(SiO₄)₃
+
+Since almandite is the only variety of garnet known to occur commonly in
+gem quality in Texas, the following properties are for almandite except
+where noted.
+
+  _Crystal system_: isometric (all varieties). _Hardness_: about 7.5.
+  _Specific gravity_: 4.25. _Luster_: vitreous to resinous. _Color_:
+  red, deep red, and brownish red (other varieties also yellow, white,
+  orange, pink, black, and green). _Streak_: white. _Cleavage_: none.
+  _Fracture_: subconchoidal to uneven. _Tenacity_: brittle to tough.
+  _Diaphaneity_: transparent to subtranslucent. _Refractive index_:
+  about 1.83.
+
+Good crystals of gem-quality almandite garnet have been found in Llano,
+Blanco, Burnet, and Gillespie counties. In southeast Llano County,
+northwest Blanco County, and northeast Gillespie County, the stones
+mostly occur in stream gravels where they have collected after being
+weathered out of compact mica schists. Owing to the fact that most of
+the garnets have not been transported very far from their source, the
+stones commonly show good crystal form (Pl. II, A). All of the garnets
+from one locality commonly do not have exactly the same crystal form.
+The garnets are mostly widely scattered in the stream gravels but can be
+found concentrated behind rocks and on small gravel bars.
+
+Many of the crystals are less than one-eighth inch in diameter; however,
+good crystals one-fourth to one-half inch in diameter are common. Most
+of the stones are too fractured or have too many inclusions to yield
+gems, but many transparent stones have been found. The transparent
+crystals usually yield flawless deep red faceted stones of 2 carats or
+less. Some of the stones that contain too many inclusions to facet are
+cut as cabochons and are then often known as carbuncle.
+
+Small garnet fragments have been found in streams and in gneisses and
+pegmatites near Castell, Llano County, but they are not commonly of gem
+quality.
+
+Occasional small gem-quality garnets have been found in pegmatites and
+contact metamorphic zones in Burnet County. Garnets have also been found
+in several other counties, notably Mason, El Paso, Hudspeth, and
+Culberson, but no stones of facet quality have been reported.
+
+
+
+
+                                  Jet
+
+
+  _Composition_: a variety of brown coal or lignite. _Structure_: woody.
+  _Hardness_: 3 to 4. _Specific gravity_: about 1.30 to 1.35. _Luster_:
+  dull. _Color_: black, brownish black. _Streak_: brown to brownish
+  black. _Cleavage_: none. _Fracture_: uneven to smooth. _Tenacity_:
+  tough to slightly brittle. _Diaphaneity_: opaque. Burns with a sooty
+  yellowish flame.
+
+Jet is a type of fossil wood in which there has been sufficient chemical
+change to make the wood relatively hard and black without destroying the
+woody structure. The best specimens of jet polish into lustrous black
+cabochons.
+
+Jet occurs in Presidio County as compressed and flattened trunks of
+trees in a thin layer of coal and lignite in Cretaceous strata 100 to
+200 feet stratigraphically below the San Carlos beds.
+
+Specimens of “jet” have been found in some of the lignitic Tertiary
+strata of the Texas Gulf Coastal Plain; however, this material is mostly
+soft, brownish, and not of gem quality.
+
+
+
+
+                              Labradorite
+
+
+  _Composition_: NaAlSi₃O₈, 50% to 30%; CaAl₂Si₂O₈, 50% to 70%. _Crystal
+  system_: triclinic. _Hardness_: 6.0 to 6.5. _Specific gravity_: about
+  2.60. _Luster_: vitreous to sometimes pearly. _Color_: straw yellow,
+  white, greenish, gray, reddish, bluish, and green. Sometimes shows a
+  play of colors on particular cleavage surfaces. _Streak_: uncolored.
+  _Cleavage_: three directions. _Fracture_: uneven to conchoidal.
+  _Tenacity_: brittle. _Diaphaneity_: transparent to translucent.
+  _Refractive index_: about 1.56. _Dispersion_: low.
+
+Very fine facet-quality labradorite has been found about 20 miles south
+of Alpine, Brewster County. The labradorite occurs loose in the soil as
+slightly weathered or frosted cleavage fragments, commonly showing one
+or more crystal faces (Pl. II, B). The pale-yellow or straw-yellow color
+of these fragments, as well as their lack of internal imperfections,
+makes these stones excellent gem material. Individual pieces that exceed
+three-fourths inch in their longest dimensions are rare. Cut stones of
+more than 5 or 6 carats from this locality are scarce. The source of
+this material is uncertain, but it is probably weathering out of an
+underlying igneous rock.
+
+
+
+
+                               Microcline
+
+
+  _Composition_: KAlSi₃O₈. _Crystal system_: triclinic. _Hardness_: 6.0
+  to 6.5. _Specific gravity_: 2.54 to 2.57. _Luster_: vitreous to
+  pearly. _Color_: white, pale yellow, red, blue green, bluish.
+  _Streak_: white. _Cleavage_: four directions, usually three of these
+  distinct. _Fracture_: uneven. _Tenacity_: brittle _Diaphaneity_:
+  transparent to translucent. _Refractive index_: about 1.52 to 1.53.
+
+Very fine crystals of blue microcline have been found east of Packsaddle
+Mountain and near Kingsland in Llano County. Crystals exceeding 1 foot
+in length have been found, although most are only a few inches long. The
+color of the microcline is mostly pale blue, but some crystals are
+darker. Microcline crystals associated with milky or vein quartz, smoky
+quartz, some biotite, and rarely cassiterite occur in pegmatite dikes
+which vary in size from a few inches to several feet in thickness. The
+color of this microcline is pale in comparison to microcline from some
+other localities in the United States, but the Texas blue microcline
+does yield pleasing cabochons. Perfect crystals of this material are
+prized by collectors. Blue or greenish microcline is often called
+amazonite or amazon stone.
+
+Bluish microcline associated with quartz and topaz has also been
+reported near Katemcy, Mason County.
+
+Red microcline is common in several central Texas counties and is a
+primary constituent of many of the igneous rocks in those counties.
+Large crystals of perthitic red microcline occur in pegmatite dikes of
+Mason, Llano, Burnet, and Gillespie counties. Any feldspar quarry or
+other pegmatite mining operation in any of these counties is likely to
+contain large red microcline crystals and fragments. Unfortunately, the
+good crystals that may have been present are often shattered by blasting
+during quarrying operations.
+
+Feldspar quarries in northeastern Gillespie County have yielded some
+good red cabochon material as well as good crystals. Here the microcline
+occurs with milky and smoky vein quartz, smoky quartz crystals, clear
+quartz crystals, greenish muscovite, and biotite. Many of the older
+quarries in Gillespie County have not been active for some time, and the
+dumps and quarry walls have been diligently searched by collectors.
+
+ [Illustration: Fig. 16. Crystal faces on microcline specimen shown in
+                             Plate III, A.]
+
+Many of the pegmatite dikes near Lake Buchanan in Llano and Burnet
+counties have produced some good red microcline specimens and cutting
+material (Pl. III, A, and fig. 16). Many of these crystals are more
+pinkish than those in Gillespie County, but this is commonly due to the
+fact that the crystal faces of the Lake Buchanan area crystals are
+somewhat more weathered than the fresh Gillespie County crystals.
+
+Numerous other local areas in the counties mentioned, as well as some
+localities in Hudspeth and Culberson counties, have also produced small
+amounts of red and pink microcline of gem quality.
+
+
+
+
+                                Obsidian
+
+
+  _Composition_: volcanic glass. _Structure_: amorphous. _Hardness_: 5.0
+  to 5.5. _Specific gravity_: 2.3 to 2.5. _Luster_: vitreous. _Color_:
+  black, dark gray, reddish, brown, bluish, and greenish. _Streak_:
+  white. _Cleavage_: none. _Fracture_: conchoidal. _Tenacity_: brittle.
+  _Diaphaneity_: translucent to nearly opaque. _Refractive index_:
+  variable, about 1.45 to 1.53.
+
+Gem-quality black and dark-gray obsidian has been found in Presidio
+County associated with extrusive igneous rocks. The obsidian in this
+area is too opaque to serve as attractive faceted stones but is found in
+pieces of sufficient size and quality to yield nice cabochons. Some of
+the small weathered pieces of this material resemble tektite in outward
+appearance; in fact, the “valverdites” mistaken originally for tektites
+are pebbles of weathered obsidian in terrace gravel of Val Verde County.
+Obsidian takes a high polish but is very sensitive to heat. Stones that
+are slightly overheated during grinding or sanding will quickly shatter.
+
+Obsidian of gem quality has been reported also in Brewster County.
+
+
+
+
+                                  Opal
+
+
+  _Composition_: SiO₂·nH₂O. _Structure_: amorphous. _Hardness_: 5.5 to
+  6.5. _Specific gravity_: 1.9 to 2.3. _Luster_: subvitreous to pearly.
+  _Color_: white, bluish, pink, brown, yellow, and gray. _Streak_:
+  white. _Cleavage_: none. _Fracture_: conchoidal. _Tenacity_: brittle.
+  _Diaphaneity_: transparent to nearly opaque. _Refractive index_: 1.43.
+
+Opal other than as fossil or opalized wood (pp. 20-21) occurs at the
+following several localities in Texas.
+
+Approximately 16 miles south of Alpine, Brewster County, precious opal
+occurs in very small seams and as cavity fillings in very hard
+pinkish-brown rhyolite. This opal is milky or bluish and commonly
+exhibits small flashes of blue, green, red, and orange fire. Individual
+pieces of this opal are mostly quite small, rarely over one-fourth inch
+in diameter, and very difficult to remove from the tough rhyolite
+matrix. Local lapidaries have cut interesting cabochons from this
+material in which several small patches of opal that are close together
+in the matrix are included in the same cabochon.
+
+Small finds of opal associated with rhyolites and basalts have come from
+other localities in west Texas, but the opal mostly does not display
+enough play of colors to warrant its use as gem material.
+
+Near Freer, Duval County, some very attractive common opal has been
+found. The opal is colored various shades of pink, blue, and yellow and
+in certain local areas occurs as fragments that are cemented together by
+clear chalcedony. Various colors are commonly found in the same piece,
+and such material yields handsome cabochons. Although the area has never
+been worked commercially, it has been hunted by collectors and cutters
+for several years.
+
+
+
+
+                                 Pearl
+
+
+Pearls are the result of the secretion of calcium carbonate by various
+shellfish around sand grains, parasitic organisms, shell fragments, or
+other foreign objects that have in some way entered the body cavity of
+the shellfish. Since the shellfish is unable to expel these irritating
+particles or organisms, it deposits successive layers of calcium
+carbonate around the foreign substance to make it smoother and less
+irritating. Although pearls are principally calcium carbonate, they also
+contain small amounts of an organic substance, called conchiolin, and
+water. Pearls are found in shellfish that live in either fresh or salt
+water. Few pearls are spherical in shape; most are rounded but somewhat
+irregular and are known as baroque pearls. Good quality pearls are the
+only gemstone commonly sold by the grain, a unit of weight equal to 0.25
+carat or 0.05 gram. The pearl grain is not the same unit of weight as
+the Troy grain.
+
+In Texas, pearls have been found in fresh-water clams in most of the
+major rivers and streams, notably in the Brazos, Concho, Colorado,
+Guadalupe, Llano, Nueces, Sabine, Rio Grande, and Trinity Rivers.
+Several Texas lakes have also yielded pearls, notably Caddo Lake and
+other lakes in north-central and northeast Texas.
+
+Small pearls are frequently found along the Texas Gulf Coast in edible
+oysters and other common shellfish. Fossil pearls have also been found
+but because of their darkened appearance are of value only as
+curiosities.
+
+The pearls thus far found in Texas have been of relatively poor quality
+and show little or no iridescence. These pearls have little value except
+as curiosities, although one writer has stated that the discovery of
+pearls in the Nueces River led to the original Spanish settlement of the
+State (Baker, 1935, p. 569).
+
+
+
+
+                                 Quartz
+
+
+  _Composition_: SiO₂. _Crystal system_: hexagonal. _Hardness_: 7.
+  _Specific gravity_: 2.65 to 2.66 in crystals. _Luster_: vitreous, also
+  waxy, greasy, and dull. _Color_: most often colorless, brown, yellow,
+  violet; sometimes green, red, blue, and black; cryptocrystalline
+  varieties often variously colored by impurities. _Streak_: white.
+  _Cleavage_: indistinct. _Fracture_: conchoidal to splintery.
+  _Tenacity_: brittle to tough. _Diaphaneity_: transparent to opaque.
+  _Refractive index_: 1.544 to 1.553.
+
+The quartz family gemstones can be divided into two groups for purposes
+of description. The first group is the crystalline varieties, or those
+quartz varieties that commonly occur in distinct crystals. The second
+group is the cryptocrystalline varieties, or those quartz varieties that
+occur as irregular masses that are composed of many microscopic
+crystals. The crystalline varieties are usually much more transparent
+and are most often seen as faceted stones. The cryptocrystalline
+varieties vary from subtransparent to opaque and are almost always cut
+as cabochons.
+
+
+
+
+                         CRYSTALLINE VARIETIES
+
+
+_Amethyst_ (violet to purple-colored quartz).—A northeastern Gillespie
+County locality known as Amethyst Hill has produced quite a number of
+fine light to medium violet amethyst crystals which occur in quartz
+veins and geodes associated with serpentine and talc. Many crystals have
+been found loose in the soil.
+
+The amethyst tends to be very irregularly colored in zones parallel to
+the crystal faces. In many, the base of the crystal is colorless or
+white and only the termination is violet. Crystals up to 3 inches long
+have been found at this locality, but the average size is much less.
+
+The surface at this locality is almost entirely depleted of amethyst,
+with only an occasional small crystal or fragment to be seen. However,
+small excavations are still sometimes productive.
+
+Good groups of pale amethyst crystals have been found in quartz veins
+near the old town site of Oxford, Llano County. The occurrence seems to
+be much the same as the Amethyst Hill locality. Little exploration for
+gemstones has been done in this area, and future discoveries seem
+likely.
+
+Chalcedony geodes lined with amethyst crystals have been found in
+Brewster, Presidio, Culberson, and Hudspeth counties, but the
+occurrences are scattered. The crystals are seldom large enough to yield
+gems of more than 3 carats and are mostly very light colored.
+
+A few pieces of gem-quality amethyst have been found in Burnet County.
+
+_Citrine_ (yellow quartz).—Very little gem-quality citrine has been
+reported in Texas. Some small citrine crystals have been found at
+Amethyst Hill in northeastern Gillespie County, but few are of
+sufficient size or color to yield good gems.
+
+The writer has seen one citrine crystal that was found in the gravels of
+a small stream in eastern Llano County near Buchanan Dam. The crystal
+weighs about 1 ounce and is perfectly clear, light golden yellow, and
+flawless. However, a further search of the stream gravels failed to
+produce any other citrines.
+
+_Rock crystal_ (colorless quartz).—Numerous localities in Texas produce
+this colorless variety of quartz, which is the most common variety of
+facet quality quartz and consequently is of little value.
+
+Rock crystal occurs at many localities in Burnet, Llano, and Mason
+counties. The crystals mostly occur in pegmatite dikes or in stream
+gravels where they have been weathered out of their parent rock. Some
+fine colorless quartz crystals have been found near Voca, Mason County,
+in weathered pegmatite dikes and also loose in the sands of nearby
+streams. Crystals from this locality are often stained with reddish iron
+oxide on their outer surfaces. Some of the rock crystal found near
+Katemcy, Mason County, shows asterism when cut with the proper
+orientation. Fine clear colorless crystals up to 8 inches long have been
+found in the pegmatite dikes near Lake Buchanan in both Llano and Burnet
+counties. Several localities near Enchanted Rock in Llano County have
+also produced some good colorless crystals.
+
+Feldspar quarries in large pegmatites in northeastern Gillespie County
+have yielded attractive quartz crystals, some of which contain smoky
+phantom crystals and tourmaline inclusions.
+
+Some pieces of rock crystal enclosing green, needle-like actinolite
+crystals have been found near the Llano-Gillespie-Blanco County corner.
+This material is not suitable for faceted gems but does lend itself to
+interesting and attractive cabochons.
+
+Colorless quartz crystals commonly are found lining small chalcedony
+geodes in Brewster, Presidio, Culberson, Hudspeth, Reeves, and Jeff
+Davis counties. These crystals are most commonly less than 1 inch long
+but are mostly very clear.
+
+Rock crystal has been found in crevices of petrified wood in many east
+and southeast Texas counties, although the crystals are mostly quite
+small.
+
+Many lesser occurrences of rock crystal, too numerous to mention, are
+located within the State.
+
+_Rose quartz_ (pink quartz).—Rose quartz occurs at various localities in
+Burnet, Llano, Mason, and Gillespie counties, but the amount of material
+is mostly small and the greater part unsuitable for gem purposes. Some
+good pink rose quartz occurs near Town Mountain, Llano County, but this
+material does not have flawless areas large enough to yield faceted
+stones of more than a few carats. Rose quartz is always slightly milky,
+or cloudy, and does not cut into brilliant faceted stones. The Town
+Mountain rose quartz has been cut into attractive cabochons.
+
+_Smoky quartz_ (brown, yellow-brown, and golden-brown quartz).—Several
+Texas localities have produced fine smoky quartz. Baringer Hill, a noted
+rare-earth minerals pegmatite locality in Llano County, contained some
+smoky quartz crystals that were estimated to weigh over 1,000 pounds,
+and the locality produced many smaller crystals that were of gem
+quality. Baringer Hill was flooded by the completion of Buchanan Dam in
+1938 and is presently under the waters of Lake Buchanan. A few fine
+golden-brown gem-quality crystals have been found along the lake shore
+and in small pegmatites nearby (Pl. III, B.).
+
+Feldspar quarries in northeastern Gillespie County have produced smoky
+quartz crystals that exceed 1 foot in length, but these crystals are
+mostly flawed, possibly as a result of blasting, and mostly contain only
+small clear areas.
+
+Good color smoky quartz crystals are found with topaz in the pegmatites
+and stream beds in Mason County, near Streeter, Grit, and Katemcy. These
+crystals tend to be lighter colored than those near Lake Buchanan, but
+they commonly contain large flawless areas.
+
+
+
+
+                      CRYPTOCRYSTALLINE VARIETIES
+
+
+_Chalcedony._—When free from impurities of various oxides and other
+compounds, chalcedony has little to render it pleasing as a gemstone. It
+is mostly gray, white, brown, or bluish and commonly has a waxy luster.
+Some of the chalcedony found along the Rio Grande Valley and in west
+Texas will take dyes, and local lapidaries have had some success in
+dyeing this material various shades of blue, green, yellow, and red.
+When the chalcedony is naturally colored and variegated, usually in
+bands, mossy figures, or dendritic forms, it is called agate.
+
+_Agate_ (variegated chalcedony).—The wide variety of markings and colors
+available together with the ease of cutting make agate a favorite of
+many lapidaries. Fine agate has been found at numerous localities in
+west and south Texas. Fine plume agate, famous throughout the United
+States, is found south of Alpine. Plume agate is characterized by
+dendritic or tree-like inclusions and is mostly cut into very handsome
+cabochons. The agate from south of Alpine commonly contains black, red,
+yellow, or brown plumes within the same piece. The variety of colors and
+lack of porosity of this agate make it highly desired among lapidaries.
+The agate occurs loose on the surface of the ground and in the soil in
+small nodules that have a very rough, brownish surface. These nodules
+are mostly less than 3 inches in diameter, although specimens of gem
+quality have been found that exceed 200 pounds.
+
+Some very fine agate has been found in the vicinity of Needle Peak,
+Presidio County. This material is mostly green moss agate in clear
+chalcedony and commonly contains small yellow “sun-burst” figures. The
+contrasting yellow and green design makes very beautiful cabochons.
+
+Fine agate has been found south of Marfa, Presidio County. This agate is
+mostly clear chalcedony with black, yellow, or variously colored plumes,
+moss, or “bouquet-like” figures.
+
+Numerous other localities in Presidio and Brewster counties have
+produced good agate.
+
+Various amounts of agate, jasper, and chalcedony occur in the gravels of
+the Rio Grande in varying quantities from Big Bend National Park
+downstream to Brownsville. This agate is found both in the present river
+gravels and in the older river gravels that now are located on nearby
+hills and slopes up to several miles north or south of the present Rio
+Grande. The greatest concentration of agate and related gem materials
+seems to be in the area between Laredo and Rio Grande City. Vast
+quantities of excellent gem material have been removed from this area
+for many years (Pl. IV). The agate occurs as rounded, stream-worn
+cobbles and commonly has a thin white coating that makes it difficult to
+distinguish from the abundant chert and other rocks. The agate occurs in
+cobbles that are mostly 3 to 6 inches in diameter, but specimens of gem
+quality that exceed twice this size are known. The agate varies greatly
+in design and color. Plume, moss, banded, and sagenitic agate occur in
+these gravels in a wide variety of colors. The jasper in the Rio Grande
+gravels is yellow, red, green, or various shades of these and is
+commonly suspended as angular fragments in clear chalcedony.
+
+Good agate has also been found near Balmorhea in Reeves and Jeff Davis
+counties and in smaller amounts at numerous other west and south Texas
+localities.
+
+_Agatized wood_ (_see_ Fossil wood, pp. 20-21).
+
+_Carnelian_ (translucent reddish chalcedony).—This variety of chalcedony
+in small quantities has been reported from near Van Horn, Hudspeth
+County. Small pieces of carnelian have been found in the gravels of the
+Rio Grande, but finds have been few and scattered.
+
+_Jasper_ (impure opaque or subtranslucent quartz).—Good green, yellow,
+red, and brown jasper has been found in the gravels of the Rio Grande at
+all of the localities that produce agate. The colors are quite vivid,
+and the material takes a fine polish. Some pieces of orbicular jasper
+(jasper with circular or eye-like markings) have been found in this
+material. These gravels commonly contain jasper as fragments that are
+suspended in clear chalcedony; this is called brecciated jasper and
+yields very handsome cabochons.
+
+Many of the west Texas agate localities also produce jasper in quantity.
+Good jasper has been reported from north of Brackettville, Kinney
+County. Jasper is a minor constituent of the stream gravels in many
+parts of the State.
+
+
+
+
+                                Sanidine
+
+
+  _Composition_: KAlSi₃O₈; commonly contains some sodium. _Crystal
+  system_: monoclinic. _Hardness_: 6. _Specific gravity_: 2.57 to 2.58.
+  _Luster_: vitreous to pearly. _Color_: colorless, white, pale yellow,
+  and gray. _Streak_: uncolored. _Cleavage_: three directions.
+  _Fracture_: conchoidal to uneven. _Tenacity_: brittle. _Diaphaneity_:
+  transparent to subtranslucent. _Refractive index_: 1.52 to 1.53.
+
+Some feldspars, including sanidine, show a nice blue sheen in reflected
+light parallel to certain crystallographic directions. Stones having
+this property are called moonstone. A clear yellowish sanidine showing
+an attractive blue sheen has been found in Brewster, Jeff Davis, and
+Presidio counties. The individual pieces are small, the average size
+being about one-eighth inch. The sanidine is found loose in the soil at
+some localities where it has weathered out of rhyolite, and specimens of
+the sanidine in the parent rock are not difficult to obtain. Very small
+cabochons can be cut from this material, but few lapidaries have done so
+because inexpensive larger pieces of moonstone can be obtained easily
+from foreign sources. However, the west Texas sanidine does show a blue
+sheen when cut and polished.
+
+
+
+
+                                 Spinel
+
+
+  _Composition_: MgAl₂O₄ (magnesium may be replaced in part by ferrous
+  iron or manganese and the aluminum by ferric iron and chromium).
+  _Crystal system_: isometric. _Hardness_: 8. _Specific gravity_: 3.5 to
+  4.1. _Luster_: vitreous to sub-metallic. _Color_: black, pink, red,
+  blue, green, yellow, brown, and violet. _Streak_: white. _Cleavage_:
+  one direction, imperfect. _Fracture_: conchoidal. _Tenacity_: brittle.
+  _Diaphaneity_: transparent to opaque. _Refractive index_: variable,
+  approximately 1.72 to 2.00.
+
+In many areas of the world, fine quality, beautifully colored,
+transparent spinels are found and used as gems. The only gem-quality
+spinel reported thus far in Texas is black and opaque. Near Eagle Flat
+in Hudspeth County, black spinel crystals have been found associated
+with augite and natural glass; these minerals are weathering out of an
+intrusive igneous rock. The spinel crystals have an octahedral form
+which is common for this mineral (fig. 17). Most of the spinels are free
+of flaws, but because of their black color they have little value as
+gems. The crystals are found loose in the sand of streams near the
+outcrops of the igneous rock or embedded in the rock. They seldom exceed
+half an inch in diameter. These stones are primarily sought by
+collectors.
+
+        [Illustration: Fig. 17. Common crystal form of spinel.]
+
+
+
+
+                          Tektite (Bediasite)
+
+
+  _Composition_: A natural glass, approximately 75% SiO₂, 15% Al₂O₃, 4%
+  FeO, also MgO, Na₂O, K₂O, and traces of other elements. _Crystal
+  structure_: amorphous. _Hardness_: 5 to 6. _Specific gravity_: 2.33 to
+  2.44. _Luster_: vitreous, often dull on weathered surfaces. _Color_:
+  dark brown, greenish brown, appears black in thick sections. _Streak_:
+  uncolored. _Cleavage_: none. _Fracture_: conchoidal. _Tenacity_:
+  brittle. _Diaphaneity_: transparent to subtransparent. _Refractive
+  index_: 1.488 to 1.512.
+
+The average bediasite size is about 1 inch in diameter, although
+specimens approximately 3 inches in diameter are known. The uncut
+tektites are very interesting, showing a variety of shapes and surface
+features (Pl. V, A) and many exhibit contorted flow structure. The
+surface of many tektites is grooved or furrowed, while on others it is
+smooth or frosted. The Texas tektites are known as “bediasites,” after
+place names in Grimes County traceable to the Bedias Indians who
+formerly lived there.
+
+Dark brown and greenish-brown tektites have been found in Texas in
+gravels at scattered localities in Walker, Grimes, Brazos, Burleson,
+Lee, Fayette, Gonzales, Lavaca, and DeWitt counties. Outside of Texas
+the only other authenticated tektite localities in the United States at
+the present time are in Dodge and Irwin counties, Georgia. A fragment of
+a similar tektite has recently been reported from near Martha’s
+Vineyard, Massachusetts. The tektites reported from Oklahoma are now
+known to be pebbles of obsidian.
+
+Although tektites have little value or beauty as gemstones, they have
+been cut by lapidaries as both faceted and cabochon stones. Tektites
+take a high polish but are mostly so dark in color that they appear
+black.
+
+The origin of tektites is of great scientific interest and is currently
+the subject of much debate. Some scientists believe that tektites are of
+meteoritic origin, while others believe that tektites were formed by
+various terrestrial processes. Since no one has actually observed a
+tektite to fall or form, and many of the theories of origin are
+difficult to prove without direct observation, the origin of tektites is
+likely to remain in controversy for some time.
+
+
+
+
+                                 Topaz
+
+
+  _Composition_: Al₂(F, OH)₂SiO₄. _Crystal system_: orthorhombic.
+  _Hardness_: 8. _Specific gravity_: 3.4 to 3.6. _Luster_: vitreous.
+  _Color_: pale blue, sky blue, greenish, white, wine yellow, straw
+  yellow, grayish, pink, reddish, and orange. _Streak_: uncolored.
+  _Cleavage_: one direction, basal, highly perfect. _Fracture_:
+  conchoidal to uneven. _Tenacity_: brittle. _Diaphaneity_: transparent
+  to subtranslucent. _Refractive index_: about 1.60 to 1.63.
+  _Dispersion_: moderate.
+
+Various yellow and smoky colored quartz gems are offered for sale as
+“Spanish Topaz,” “Smoky Topaz,” “Madeira Topaz,” and “Topaz Quartz.”
+These names are entirely misleading and should be dropped from usage.
+
+Fine gem-quality white, pale-blue, and sky-blue topaz has been found
+near Streeter, Grit, and Katemcy, Mason County. This Texas gem material
+compares favorably in color, size, and clarity with topaz found anywhere
+in the United States. Fine crystals of topaz (Pl. V, B, and fig. 18)
+occasionally are found in pegmatite dikes associated with quartz, black
+tourmaline, cassiterite, and pink microcline. Many of the gem-bearing
+pegmatites have been eroded away, leaving the topaz concentrated in the
+stream beds. The stones mostly occur as frosted, stream-worn pebbles
+(Pl. VI, A) in the numerous small creeks in the area. The topaz is
+heavier than the quartz and microcline that compose the stream gravel
+and is commonly found immediately on top of the granite bed-rock in the
+bottom of the stream bed. The stones tend to lodge behind boulders or
+small dikes cutting across the stream.
+
+ [Illustration: Fig. 18. Crystal faces on topaz crystal shown in Plate
+  V, B. This crystal habit is typical of the topaz from Mason County.]
+
+The white or colorless stones are by far the most common, outnumbering
+the bluish stones about ten to one. The color of the blue stones tends
+to be irregularly distributed in zones parallel to the crystal faces.
+Topaz that is colored in this manner should be cut with the best blue
+color near the bottom or culet of the gem (fig. 19). If done correctly,
+this will give the entire gemstone the desirable blue color.
+
+[Illustration: Fig. 19. Cross section showing the proper orientation of
+    dark-color zone in a gem cut from an irregularly colored stone.]
+
+  COLORLESS
+  BLUE
+
+The colorless stones can be turned pale yellow, yellowish brown, or
+straw yellow by exposure to X-ray radiation, and some of the bluish
+stones will fluoresce faintly yellowish under ultra-violet light.
+
+The largest gem-quality topaz crystal yet found in North America has
+come from Mason County. It is a pale-blue crystal weighing 1,296 grams,
+now in the collection of the U.S. National Museum. Several other large
+pieces, some weighing over a pound, have been found. One large crystal,
+exact weight unknown, was found near Katemcy. Several gem cutters have
+estimated that this stone could easily yield a single, flawless
+pale-blue gem of about 500 carats. Many large gems have been cut from
+topaz found in this area, including at least one stone of over 300
+carats.
+
+One obstacle in the cutting of topaz is its perfect basal cleavage. The
+gemstone should be oriented so that no facet of the stone will be
+parallel to or within less than about 5 degrees of the cleavage
+direction, or the facet may be very difficult or impossible to polish.
+
+It is difficult to estimate the productivity of this area since its
+discovery in the early 1900’s. Few systematic attempts have been made to
+exploit the deposits, and a great amount of the topaz thus far recovered
+has been found by private collectors. The Mason County topaz deposits
+are still very productive, and additional exploration may uncover even
+more gem-producing areas.
+
+Topaz has also been found in stream gravels or pegmatites in Burnet,
+Llano, Gillespie, and El Paso counties but very rarely in gem quality.
+
+
+
+
+                               Tourmaline
+
+
+  _Composition_: H₉Al₃(B·OH)₂Si₄O₁₉; hydrogen often replaced by iron,
+  magnesium, calcium, or fluorine. _Crystal system_: hexagonal.
+  _Hardness_: 7 to 7.5. _Specific gravity_: 2.98 to 3.20. _Luster_:
+  vitreous to resinous. _Color_: black, brownish black, brown, blue,
+  green, red, pink, yellow, and gray. _Streak_: uncolored. _Cleavage_:
+  two directions, very imperfect. _Fracture_: subconchoidal to uneven.
+  _Tenacity_: brittle. _Diaphaneity_: transparent to opaque. _Refractive
+  index_: about 1.62 to 1.64.
+
+Black tourmaline is schorl; brown tourmaline, dravite.
+
+Good crystals of black and dark brown tourmaline occur at Town Mountain
+near Llano, Llano County. The tourmaline crystals average about 1 inch
+in length, do not commonly exceed 2 inches, and are associated with
+white vein quartz. The quartz completely encloses the tourmaline, but
+the crystals can be broken free or the quartz can be trimmed away with
+the use of a diamond saw. The latter procedure is recommended whenever
+possible, for it is very easy to shatter the tourmaline crystals while
+trying to remove them from the quartz by other means. Many of the
+crystals are completely unsuitable for cutting, being too brittle or too
+badly cracked and flawed. However, some small crystals have been found
+that are of sufficient quality and size to yield flawless stones of a
+few carats. Few of these stones have been cut since the tourmaline is so
+dark that it appears opaque, and few persons find a gem of this nature
+attractive.
+
+Good black and dark brown crystals of tourmaline associated with
+andalusite and graphite occur in the Packsaddle schist (Precambrian)
+near Sunrise Beach, Llano County (Pl. VI, B, and fig. 20). Although
+generally smaller in diameter than the crystals found at Town Mountain,
+they commonly exceed 3 inches in length, although the average size is a
+little over 1 inch. Many of these crystals are suitable for cutting into
+opaque or nearly opaque stones of about 5 or 6 carats.
+
+Black tourmaline has also been found in Hudspeth and Culberson counties
+but not of sufficient quality to be used as a gemstone.
+
+[Illustration: Fig. 20. Common crystal form of Llano County tourmaline.]
+
+
+
+
+                               Turquoise
+
+
+  _Composition_: hydrous phosphate of aluminum and copper. _Crystal
+  system_: triclinic. _Hardness_: 5 to 6. _Specific gravity_: variable,
+  2.6 to about 2.8. _Luster_: dull, sometimes waxy. _Color_: sky blue to
+  greenish blue. _Streak_: white to greenish. _Cleavage_: none in
+  massive material, two directions in crystals. _Fracture_: conchoidal
+  to subconchoidal. _Tenacity_: brittle. _Diaphaneity_: subtranslucent
+  to opaque. _Refractive index_: 1.61 to 1.65.
+
+Turquoise of good sky-blue to greenish-blue color has been found a few
+miles southwest of Van Horn, Culberson County. Several shallow pits were
+dug at this locality about 1910; however, the amount of turquoise
+produced was small. The main occurrence of the turquoise was in seams
+about 1 millimeter thick along joints in the fine-grained rocks of this
+area. Persons who have visited Culberson County more recently report
+that even minute traces of the turquoise are now difficult to find at
+the old prospect pits. However, further prospecting in the area might
+yield some additional localities.
+
+Small amounts of turquoise have been reported near El Paso, El Paso
+County, and also in volcanic rocks near the Jeff Davis-Brewster County
+line, north of Alpine.
+
+A small amount of turquoise has been mined from several localities a few
+miles northwest of Sierra Blanca in the Sierra Blanca Mountains of
+Hudspeth County.
+
+
+
+
+                                GLOSSARY
+
+
+  Amorphous—without definite molecular structure; not crystalline.
+  Baroque stone—an irregularly shaped, polished stone; usually applied
+          to tumbled stones.
+  Baroque pearl—an irregularly shaped pearl.
+  Brilliancy—reflecting much light; having brightness.
+  Brilliant cut—a mode of arrangement of facets commonly used on round
+          or oval stones. The standard American brilliant cut has 57 or
+          58 facets. Most diamonds of 5 or less carats are cut in this
+          manner.
+  Cabochon—a stone cut with a flat or convex upper surface; sometimes
+          faceted in part. Opal, star sapphire, and agate are stones
+          that are frequently cut in this style (fig. 2).
+  Cambrian—a division of geologic time, estimated to be the time from
+          550 to 440 million years ago; the oldest time division of the
+          Paleozoic era.
+  Carat—a unit of weight equal to ⅕ of a gram or 0.2 gram. One ounce
+          avoirdupois is equal to 141.75 carats.
+  Cleavage—the tendency of certain minerals to split in particular
+          directions yielding relatively smooth plane surfaces.
+  Conchiolin—an organic albuminoid substance found in pearls.
+  Conchoidal—a type of fracture having curved concavities or the
+          approximate shape of one-half of a bivalve shell. Glass has
+          excellent conchoidal fracture.
+  Cretaceous—a division of geologic time, estimated to be the time from
+          135 to 60 million years ago; youngest division of the Mesozoic
+          era.
+  Crown—that portion of a faceted gem above the girdle; the upper
+          portion of a facet-cut gem (fig. 6).
+  Cryptocrystalline—composed of very fine or microscopic crystals.
+  Crystal—the regular polyhedral form, bounded by plane surfaces, that
+          is assumed by a mineral under suitable conditions. Crystals
+          have definite external symmetry and internal molecular order.
+  Crystalline—possessing definite internal molecular order; not
+          amorphous.
+  Cubic—in the general shape of a cube. The isometric crystal system is
+          often called the cubic system.
+  Culet—the very bottom portion of a faceted gem; the point or line
+          formed by the intersection of the lowest pavilion facets (fig.
+          6).
+  Dendritic—branching or tree-like in form.
+  Diaphaneity—relative transparency. The diaphaneity of a mineral is
+          described as transparent, translucent, opaque, etc.
+  Dike—a tabular rock body, usually igneous in origin, which cuts across
+          the surrounding rock strata.
+  Dispersion—a measure of the ability of gemstones to separate complex
+          or white light into its component colors; often illustrated
+          with a prism. Gemstones that are capable of separating colors
+          of light widely are said to have high dispersion; gemstones
+          not so capable of separating white light into colors are said
+          to have low dispersion.
+  Dopping—the act of cementing a gemstone, either rough or partly
+          finished, to a dop-stick.
+  Dop-stick—the wooden stick or cylindrical piece of metal to which a
+          gemstone is cemented to facilitate handling during cutting and
+          polishing.
+  Dop-wax—the agent or cement used to secure a gemstone to a dop-stick.
+  Emerald cut—a rectangular or square faceted stone with beveled corners
+          whose surfaces are covered with several series of rectangular
+          facets.
+  Eocene—a division of geologic time, estimated to be the time from 50
+          to 40 million years ago; one of the older divisions of the
+          Cenozoic era.
+  Extrusive rock—igneous rock that has been extruded or forced out onto
+          the earth’s surface.
+  Facet—a single plane polished surface on a faceted gem.
+  Facet head—a device used in the cutting and polishing of faceted gems;
+          used to control the placement of facets and their relative
+          angles (fig. 7).
+  Facet table—the equipment used in the cutting and polishing of faceted
+          gems and the table on which most of the equipment is mounted
+          (fig. 7).
+  Feldspar—a group of closely related silicate minerals including
+          orthoclase, microcline, sanidine, plagioclase, labradorite,
+          and others.
+  Fire—the reflections of variously colored light from a precious opal;
+          also the different colors of light reflected from a faceted
+          gem owing to the dispersion of the mineral.
+  Fracture—the texture of a freshly broken surface other than a cleavage
+          surface, described as conchoidal, even, splintery, etc.
+  Gem—a cut and polished gemstone.
+  Gemology—the science dealing with the study of gemstones.
+  Gemstone—a mineral suitable for cutting into a gem; the term gemstones
+          is frequently used collectively to include both cut and
+          polished stones and rough stones.
+  Geode—a rounded or spherical rock cavity; commonly lined with
+          crystals.
+  Girdle—the portion of a faceted gem separating the crown from the
+          pavilion; the girdle may or may not be polished and usually
+          contains about 2 percent of the total depth of the gem (fig.
+          6).
+  Gneiss—a coarse-grained metamorphic rock having segregations of
+          granular and platy minerals that give it a more or less banded
+          appearance without well-developed schistosity.
+  Grain (pearl grain)—a unit of weight equal to 0.05 gram or 0.25 carat;
+          not the same as the Troy grain.
+  Granite—a granular igneous rock composed mostly of quartz, feldspar,
+          and commonly mica and/or hornblende.
+  Hexagonal—having six angles and six sides; a crystal system in which
+          the crystal faces are referred to four intersecting axes;
+          three of these axes are equal, lie in the same plane, and
+          intersect at angles of 60 degrees; the fourth axis is
+          perpendicular to the other three.
+  Igneous rock—rock formed by solidification from a hot melt.
+  Index of refraction—a measure of the relative ability of a gemstone to
+          “bend” incident light rays; sine of the angle of incidence of
+          a light ray divided by the sine of the angle of refraction.
+  Intrusive rock—rock that has been pushed (usually in a molten state)
+          among pre-existing rock strata, commonly along faults or
+          fissures. Intrusive rocks do not reach the earth’s surface but
+          are commonly exposed at the surface by later erosion.
+  Isometric—a crystal system in which the crystal faces are referred to
+          three equal intersecting axes at right angles to each other.
+  Lap—a disc-shaped piece of metal or other material which is
+          impregnated with diamond dust, or some other cutting or
+          polishing agent, that is revolved while the gemstone is worked
+          against it.
+  Lap plate—a metal plate to which a cutting or polishing lap is
+          attached, usually by means of a threaded bolt and wing nut.
+          The lap plate is attached to the shaft which is turned by the
+          motor under the facet table.
+  Lapidary—one who practices the lapidary arts; a gem cutter.
+  Limestone—a sedimentary rock composed mostly of calcium carbonate.
+  Luster—the appearance of the freshly broken or unweathered surface of
+          a mineral in reflected light (p. 5).
+  Main facet—as applied to the standard American brilliant cut, one of
+          the first eight facets cut on either the crown or pavilion of
+          a gem (fig. 6).
+  Matrix—the material in which a specific mineral is embedded; also the
+          rock to which one end of a crystal is attached.
+  Metamorphic rock—rock that has been changed from its original state by
+          heat, pressure, chemical action, or some combination of these
+          factors.
+  Millimeter—¹/₁₀ centimeter; approximately ¹/₂₅ inch.
+  Mineralogy—the science concerned with the study of minerals, including
+          their occurrence, composition, forms, properties, and
+          structure.
+  Monoclinic—a crystal system in which the crystal faces are described
+          in relation to three intersecting unequal axes, two of which
+          are at right angles and the third inclined.
+  Oligocene—a division of geologic time, estimated to be the time from
+          40 to 28 million years ago; part of the Cenozoic era.
+  Opaque—does not transmit light.
+  Orbicular—containing orbs or spherical or eye-like markings or
+          structures.
+  Orthorhombic—a crystal system in which crystal faces are referred to
+          three unequal intersecting axes at right angles.
+  Pavilion—the portion of a faceted gem below the girdle (fig. 6).
+  Pegmatite—a body of coarse-grained intrusive igneous rock, commonly
+          lens or dike shaped.
+  Perthitic—a plaid-patterned structure resulting from intermixture of
+          soda- and potash-rich feldspars.
+  Phantom crystal—a crystal outline seen within another crystal, mostly
+          due to entrapping of inclusions during the crystal’s growth.
+  Pleochroism—the property of transmitting different colors of light in
+          different crystallographic directions.
+  Point—a unit of weight equal to ¹/₁₀₀ (0.01) carat.
+  Porous—containing pores or void spaces.
+  Precambrian—a division of geologic time, estimated to be all of
+          geologic time prior to 550 million years ago; the time before
+          the Paleozoic era.
+  Preform—a gemstone that has been ground to a rough outline of the
+          finished shape of a gem.
+  Rhyolite—a fine-grained extrusive or shallow intrusive igneous rock of
+          approximately the same composition as granite.
+  Rough—uncut, not worked by a lapidary, not cut and polished.
+  Schist—a metamorphic rock that contains an abundance of oriented platy
+          minerals that enable the rock to be split with relative ease
+          parallel to the flat surfaces of the platy minerals.
+  Silicified—replaced by or containing a large amount of quartz or
+          silica.
+  Skill facet—a term often used for the pavilion girdle facets of the
+          standard American brilliant cut (fig. 6).
+  Specific gravity—the weight in air divided by the loss of weight in
+          water at a given temperature, or the weight of an object in
+          air divided by the weight of an equal volume of water; also
+          called relative density; the most commonly used standard
+          temperature for this measurement is 4° C. or 39.2° F.
+  Star facet—one of the eight facets surrounding the table facet of a
+          standard American brilliant cut (fig. 6).
+  Step cut—a mode of faceting in which the surface of the gem is covered
+          by a series of square or rectangular facets; stones thusly cut
+          are usually square, rectangular, or irregular with straight
+          sides in outline.
+  Streak—the color of a mineral when finely powdered; usually determined
+          by rubbing the mineral against a piece of unglazed porcelain.
+  Symmetry—the number, location, and balanced arrangement of crystal
+          faces in reference to the crystallographic axes or other
+          crystallographic planes or directions.
+  Synthetic gem—a gemstone manufactured by man that has approximately
+          the same chemical composition and properties as a natural
+          gemstone.
+  Table facet—the large horizontal facet found on the crown of many
+          gems, often called simply the table (fig. 6).
+  Tenacity—the resistance of minerals to breakage, described by such
+          terms as malleable, ductile, sectile, and brittle (p. 6).
+  Termination—the end of a crystal that is completely enclosed by
+          crystal faces, the crystal end that is not attached to the
+          matrix.
+  Tertiary—a division of geologic time, estimated to be the time from 60
+          to 1 million years ago; the Tertiary includes the Paleocene,
+          Eocene, Oligocene, Miocene, and Pliocene epochs (from oldest
+          to youngest).
+  Tetragonal—having four angles; a crystal system in which the crystal
+          faces are referred to three axes at right angles to each
+          other, two of which are equal and the third longer or shorter.
+  Translucent—allowing the passage of light but diffusing it
+          sufficiently so that objects on the other side cannot be
+          clearly distinguished.
+  Transparent—clear, allowing free passage of light so that objects on
+          the other side can be readily distinguished; opposite of
+          opaque.
+  Triclinic—a crystal system in which the crystal faces are referred to
+          three unequal axes, none of which are at right angles.
+  Tumbling—a process of polishing irregularly shaped gemstones (p. 17).
+  Vein—a tabular, irregular, or twisting mineral deposit that is thin in
+          relation to its length and breadth, usually the result of
+          solution or hydrothermal activity.
+  Vitreous—having luster, general appearance, or physical properties
+          similar to glass.
+  Vug—an unfilled rock cavity, commonly lined with crystals; may later
+          become filled by minerals owing to solution or hydrothermal
+          activity.
+
+
+
+
+                          SELECTED REFERENCES
+
+
+Anderson, B. W. (1948) Gem testing: Emerson, New York.
+
+Baker, C. L. (1935) Metallic and non-metallic minerals and ores
+(precious stones), _in_ The geology of Texas, Vol. II, Structural and
+economic geology: Univ. Texas Bull. 3401, Jan. 1, 1934, pp. 568-569.
+
+Barnes, V. E. (1940) North American tektites: Univ. Texas Pub. 3945,
+Dec. 1, 1939, pp. 477-582.
+
+Dake, H. C., Fleener, F. L., and Wilson, B. H. (1938) Quartz family
+minerals: Whittlesey House, McGraw-Hill Book Company, Inc., New York.
+
+Ford, W. E. (1932) A textbook of mineralogy (4th ed.): John Wiley and
+Sons, Inc., New York.
+
+Kraus, E. H., and Slawson, C. B. (1947) Gems and gem materials (5th
+ed.): McGraw-Hill Book Company, Inc., New York.
+
+Kunz, G. F. (1892) Gems and precious stones of North America (2d ed.):
+Scientific Publishing Company, New York.
+
+Pough, F. H. (1953) A field guide to rocks and minerals: Houghton
+Mifflin Company, Boston.
+
+Simpson, B. W. (1958) Gem trails of Texas: Granbury, Texas.
+
+Sinkankas, John (1955) Gem cutting: D. Van Nostrand Company, Inc.,
+Princeton, New Jersey.
+
+—— (1959) Gemstones of North America: D. Van Nostrand Company, Inc.,
+Princeton, New Jersey.
+
+Smith, G. F. H. (1958) Gemstones (13th ed.), revised by F. C. Phillips:
+Methuen and Company, Ltd., London.
+
+Sperisen, F. J. (1950) The art of the lapidary: The Bruce Publishing
+Company, Milwaukee, Wisconsin.
+
+Sterrett, D. B. (1913) Gems and precious stones, _in_ Mineral resources
+of the United States, Calendar Year 1912, Part II, Non-metals: U. S.
+Geol. Survey, pp. 1023-1060.
+
+
+
+
+                                Plate I
+
+
+                            [Illustration: A
+Gem-quality celestite crystals from Travis County, Texas. Twice natural
+  size. Lower portion of the crystals is colorless; the tips are dark
+                                 blue.]
+
+                            [Illustration: B
+  Opalized wood from the Texas Gulf Coastal Plain. Specimen at left is
+rich brown and tan; specimen at right is fossil palm wood and is black,
+           reddish brown, and white. One-third natural size.]
+
+
+
+
+                                Plate II
+
+
+                            [Illustration: A
+   Gem-quality garnet crystals and faceted gem from Gillespie County,
+                         Texas. Natural size.]
+
+                            [Illustration: B
+ Labradorite from Brewster County, Texas. Both stones are pale yellow.
+                  One and a half times natural size.]
+
+
+
+
+                               Plate III
+
+
+                            [Illustration: A
+          Pink microcline crystal from Burnet County, Texas.]
+
+                            [Illustration: B
+Smoky quartz from Burnet County, Texas. Natural size. Colorless crystal
+           at center back is included for color comparison.]
+
+
+
+
+                                Plate IV
+
+
+   [Illustration: Polished agate from gravels of the Rio Grande near
+Zapata, Zapata County, Texas. Bands are blue and gray; other inclusions
+  are brown, yellow, and reddish. One and a half times natural size.]
+
+
+
+
+                                Plate V
+
+
+                            [Illustration: A
+Texas tektites (bediasites) showing variety of surface features. Natural
+                                 size.]
+
+                            [Illustration: B
+Topaz crystal from a pegmatite dike near Streeter, Mason County, Texas.
+Natural size. Measurements: 1½ by 1⅝ by 3 inches; weight: 194 grams (970
+                carats); pale blue; mostly gem quality.]
+
+
+
+
+                                Plate VI
+
+
+                            [Illustration: A
+ Topaz from stream gravels near Streeter, Mason County, Texas. Natural
+size. Left to right: colorless worn pebble; emerald-cut pale-blue topaz,
+  weight 10 carats; pale-blue worn pebble, weight 205 carats; step out
+       sky-blue topaz, weight 13 carats; pale-blue worn pebble.]
+
+                            [Illustration: B
+        Tourmaline crystals in schist from Llano County, Texas.]
+
+
+
+
+                                 Index
+
+
+                                   A
+  actinolite: 26
+  agate: 20, 28, 38
+  agatized wood: 27
+  allanite: 21
+  almandite: 22
+  amazonite: 23
+  amazon stone: 23
+  amber: 18
+  amethyst: 25
+  Amethyst Hill: 25
+  amorphous gemstones: 9
+  andalusite: 30
+  Arkansas: 19
+  Armstrong County: 21
+  augite: 18, 28
+
+
+                                       B
+  Baringer Hill, Llano County: 21, 26
+  baroque pearls and/or stones: 17, 25
+  bediasite (tektite): 28-29, 39
+  beryl: 18
+  Big Bend National Park: 27
+  biotite: 23
+  Blanco County: 18, 22
+  Brazos County: 29
+  Brazos River: 25
+  Brewster County: 18, 23, 24, 25, 26, 27, 28, 31, 36
+  brilliancy: 5
+  brilliant cut, standard American: 13, 15, 16
+  Brown County: 19
+  Burleson County: 29
+  Burnet County: 20, 22, 23, 25, 26, 30, 37
+
+
+                                       C
+  cabochon gems: 10-12
+  Caddo Lake: 25
+  carbuncle: 22
+  carnelian: 27
+  cassiterite: 23, 29
+  celestite: 19, 35
+  chalcedony: 27
+      geodes: 26
+  chuck: 15, 17
+  citrine: 25-26
+  cleavage: 6, 13
+  coal: 22
+  Coke County: 19
+  color: 5
+  Colorado River: 25
+  Concho River: 25
+  crown girdle facets: 16, 17
+  crown of gemstone: 15, 16
+  crystals: 7-9
+  crystal systems: 7
+  crytolite: 21
+  Culberson County: 22, 23, 25, 26, 31
+  culet: 13
+  cutting and polishing: 10-17
+  cutting lap: 13
+
+
+                                       D
+  DeWitt County: 29
+  diamond: 19
+      saw: 10, 11
+  diaphaneity: 5
+  dispersion: 6
+  dopping: 12, 13
+  dop-stick: 12, 15, 17
+  dop-wax: 12, 15, 17
+  dravite: 30
+  durability: 6
+  Duval County: 21, 24
+
+
+                                       E
+  El Paso County: 22, 30, 31
+  emerald cut: 15
+  epidote: 19-20
+
+
+                                       F
+  facet, kinds of: 13
+      main: 16
+      skill: 16
+      table: 13, 14
+  faceted gems and/or stones: 10, 13-17
+  Fayette County: 20, 29
+  fergusonite: 21
+  fire: 5
+  Fisher County: 19
+  fluorite: 20, 21
+  Foard County: 19
+  fossil wood: 20-21, 22
+  fracture: 6
+  Franklin Mountains: 18
+
+
+                                       G
+  gadolinite: 21-22
+  garnet: 20, 22, 36
+  gemstones, by kinds: 18-31
+  geodes, celestite: 19
+  Georgia: 29
+  Gillespie County: 18, 22, 23, 25, 26, 30, 36
+  girdle facets: 16
+  gneiss: 22
+  Gonzales County: 20, 29
+  grain: 25
+  gram: 7
+  graphite: 30
+  Grimes County: 29
+  grinding: 12
+  Guadalupe River: 25
+  Gulf Coast: 25
+  Gulf Coastal Plain: 18, 20, 22, 35
+
+
+                                       H
+  hardness: 6
+  Hudspeth County: 18, 20, 22, 24, 25, 26, 27, 28, 31
+
+
+                                       I
+  index of refraction: 5
+
+
+                                       J
+  jasper: 27-28
+  Jeff Davis County: 26, 27, 28, 31
+  jet: 22
+
+
+                                       K
+  Kinney County: 28
+
+
+                                       L
+  labradorite: 23, 36
+  Lake Buchanan: 21
+  Lampasas County: 19
+  lap plate: 13
+  Lavaca County: 29
+  Lee County: 20, 29
+  lignite: 22
+  Live Oak County: 21
+  Llano County: 18, 19, 20, 21, 22, 23, 25, 26, 30, 31, 40
+  Llano River: 25
+  luster: 5
+
+
+                                       M
+  Madeira topaz: 29
+  Mason County: 20, 22, 23, 26, 29, 30, 39, 40
+  Massachusetts: 29
+  Maverick County: 18
+  microcline: 20, 21, 23-24, 29, 37
+  Mohs scale of hardness: 6
+  moonstone: 28
+  Mount Bonnell: 19
+  muscovite: 23
+
+
+                                       N
+  natural glass: 18, 24, 28
+  Needle Peak, Presidio County: 27
+  nivenite: 21
+  Nolan County: 19
+  Nueces River: 25
+
+
+                                       O
+  obsidian: 24, 29
+  Oklahoma: 29
+  opal: 20, 24
+  opalized wood: 35
+  orbicular jasper: 28
+  ounce: 7
+
+
+                                       P
+  Packsaddle Mountain: 23
+  Packsaddle schist: 30
+  palm wood: 21, 35
+  Palo Duro Canyon: 21
+  pavilion: 13, 16
+      facets: 16
+      girdle facets: 16, 17
+  pearl: 24-25
+  pegmatites and/or pegmatite dikes: 18, 20, 21, 22, 23, 26, 29, 39
+  petrified wood: 26
+  phantom crystals: 26
+  pistacite: 20
+  pleochroism: 5
+  point: 7
+  polishing: 17
+      lap: 13, 16
+  preformed stone: 16
+  preforming: 15
+  Presidio County: 20, 22, 24, 25, 26, 27, 28
+  properties of gemstones: 5-7
+
+
+                                       Q
+  quartz: 20, 21, 23, 25-28, 29, 30
+      smoky: 38
+
+
+                                       R
+  radioactive elements: 22
+  radioactivity of gadolinite: 21
+  rarity: 6
+  Reeves County: 26, 27
+  Rio Grande: 25
+      gravels of: 21, 27, 38
+      Valley: 27
+  rock crystal: 26
+  rose quartz: 26
+
+
+                                       S
+  Sabine River: 25
+  sanding: 12
+  sanidine: 28
+  sawing: 10
+  scheelite: 20
+  schorl: 30
+  size: 7
+  “skill” facets: 16
+  “slab” of gem materials: 11
+  Smithsonian Institution: 21
+  smoky quartz: 23, 26, 37
+  smoky topaz: 29
+  Spanish topaz: 29
+  specific gravity: 7
+  spinel: 18, 28
+  star facets: 17
+  step cut: 15
+  streak: 6
+  synthetic gems: 7
+
+
+                                       T
+  table facet: 13, 15
+  tektite (bediasite): 28-29, 39
+  tenacity: 6
+  thorogummite: 21
+  topaz: 23, 26, 29-30, 39, 40
+      quartz: 29
+  tourmaline: 26, 29, 30-31, 40
+  Town Mountain, Llano County: 26, 30
+  transparency: 6
+  Travis County: 19, 35
+  Trinity River: 25
+  tumbled gems: 17
+  turquoise: 31
+
+
+                                       U
+  U. S. National Museum: 30
+
+
+                                       V
+  value of gemstones: 6, 7
+  Val Verde County: 24
+  valverdites: 24
+  Van Horn, Hudspeth County: 27
+
+
+                                       W
+  Walker County: 29
+  Washington County: 20
+  Webb County: 21
+  weight, units of: 7, 25
+
+
+                                       Z
+  Zapata County: 38
+
+
+
+
+                          Transcriber’s Notes
+
+
+--Silently corrected a few typos.
+
+--Renumbered figures 6 and 7 (and references to them) to correspond to
+  their order in the printed book.
+
+--Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+--In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Texas Gemstones, by Elbert A. King, Jr.
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TEXAS GEMSTONES ***
+
+***** This file should be named 60070-0.txt or 60070-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/0/7/60070/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
